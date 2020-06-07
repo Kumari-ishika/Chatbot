@@ -1,0 +1,6799 @@
+{
+    "intents": [
+        {
+            "tag": "Beyonc\u00e9 a",
+            "ques": [
+                "Hi","Hello","Hey"
+            ],
+            "ans": [
+                "Hello"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 b",
+            "ques": [
+                "I want to know about Beyonce","I want information about beyonce"
+            ],
+            "ans": [
+                "Ask me"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 0",
+            "ques": [
+                "When did Beyonce start becoming popular?"
+            ],
+            "ans": [
+                "in the late 1990s"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 1",
+            "ques": [
+                "What areas did Beyonce compete in when she was growing up?"
+            ],
+            "ans": [
+                "singing and dancing"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 2",
+            "ques": [
+                "When did Beyonce leave Destiny's Child and become a solo singer?"
+            ],
+            "ans": [
+                "2003"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 3",
+            "ques": [
+                "In what city and state did Beyonce  grow up? "
+            ],
+            "ans": [
+                "Houston, Texas"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 4",
+            "ques": [
+                "In which decade did Beyonce become famous?"
+            ],
+            "ans": [
+                "late 1990s"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 5",
+            "ques": [
+                "In what R&B group was she the lead singer?"
+            ],
+            "ans": [
+                "Destiny's Child"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 6",
+            "ques": [
+                "What album made her a worldwide known artist?"
+            ],
+            "ans": [
+                "Dangerously in Love"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 7",
+            "ques": [
+                "Who managed the Destiny's Child group?"
+            ],
+            "ans": [
+                "Mathew Knowles"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 8",
+            "ques": [
+                "When did Beyonc\u00e9 rise to fame?"
+            ],
+            "ans": [
+                "late 1990s"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 9",
+            "ques": [
+                "What role did Beyonc\u00e9 have in Destiny's Child?"
+            ],
+            "ans": [
+                "lead singer"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 10",
+            "ques": [
+                "What was the first album Beyonc\u00e9 released as a solo artist?"
+            ],
+            "ans": [
+                "Dangerously in Love"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 11",
+            "ques": [
+                "When did Beyonc\u00e9 release Dangerously in Love?"
+            ],
+            "ans": [
+                "2003"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 12",
+            "ques": [
+                "How many Grammy awards did Beyonc\u00e9 win for her first solo album?"
+            ],
+            "ans": [
+                "five"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 13",
+            "ques": [
+                "What was Beyonc\u00e9's role in Destiny's Child?"
+            ],
+            "ans": [
+                "lead singer"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 14",
+            "ques": [
+                "What was the name of Beyonc\u00e9's first solo album?"
+            ],
+            "ans": [
+                "Dangerously in Love"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 15",
+            "ques": [
+                "After her second solo album, what other entertainment venture did Beyonce explore?"
+            ],
+            "ans": [
+                "acting"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 16",
+            "ques": [
+                "Which artist did Beyonce marry?"
+            ],
+            "ans": [
+                "Jay Z"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 17",
+            "ques": [
+                "To set the record for Grammys, how many did Beyonce win?"
+            ],
+            "ans": [
+                "six"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 18",
+            "ques": [
+                "For what movie did Beyonce receive  her first Golden Globe nomination?"
+            ],
+            "ans": [
+                "Dreamgirls"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 19",
+            "ques": [
+                "When did Beyonce take a hiatus in her career and take control of her management?"
+            ],
+            "ans": [
+                "2010"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 20",
+            "ques": [
+                "Which album was darker in tone from her previous work?"
+            ],
+            "ans": [
+                "Beyonc\u00e9"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 21",
+            "ques": [
+                "After what movie portraying Etta James, did Beyonce create Sasha Fierce?"
+            ],
+            "ans": [
+                "Cadillac Records"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 22",
+            "ques": [
+                "When did Destiny's Child end their group act?"
+            ],
+            "ans": [
+                "June 2005"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 23",
+            "ques": [
+                "What was the name of Beyonc\u00e9's second solo album?"
+            ],
+            "ans": [
+                "B'Day"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 24",
+            "ques": [
+                "What was Beyonc\u00e9's first acting job, in 2006?"
+            ],
+            "ans": [
+                "Dreamgirls"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 25",
+            "ques": [
+                "Who is Beyonc\u00e9 married to?"
+            ],
+            "ans": [
+                "Jay Z"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 26",
+            "ques": [
+                "What is the name of Beyonc\u00e9's alter-ego?"
+            ],
+            "ans": [
+                "Sasha Fierce"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 27",
+            "ques": [
+                "In her music, what are some recurring elements in them?"
+            ],
+            "ans": [
+                "love, relationships, and monogamy"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 28",
+            "ques": [
+                "Time magazine named her one of the most 100 what people of the century?"
+            ],
+            "ans": [
+                "influential"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 29",
+            "ques": [
+                "Which magazine declared her the most dominant woman musician?"
+            ],
+            "ans": [
+                "Forbes"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 30",
+            "ques": [
+                "In which decade did the Recording Industry Association of America recognize Beyonce as the The Top Certified Artist?"
+            ],
+            "ans": [
+                "2000s"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 31",
+            "ques": [
+                "What magazine rated Beyonce as the most powerful female musician in 2015?"
+            ],
+            "ans": [
+                "Forbes"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 32",
+            "ques": [
+                "How did Beyonce describe herself as a feminist?"
+            ],
+            "ans": [
+                "modern-day feminist"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 33",
+            "ques": [
+                "In which years did Time rate Beyonce in the 100 most influential people in the world?"
+            ],
+            "ans": [
+                "2013 and 2014"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 34",
+            "ques": [
+                "How many records has Beyonce sold in her 19 year career?"
+            ],
+            "ans": [
+                "118 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 35",
+            "ques": [
+                "How many records did Beyonc\u00e9 sell as part of Destiny's Child?"
+            ],
+            "ans": [
+                "60 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 36",
+            "ques": [
+                "After leaving Destiny's Child, how many records did Beyonc\u00e9 release under her own name?"
+            ],
+            "ans": [
+                "118 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 37",
+            "ques": [
+                "How many Grammy awards has Beyonc\u00e9 won?"
+            ],
+            "ans": [
+                "20"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 38",
+            "ques": [
+                "What magazine named Beyonc\u00e9 as the most powerful female musician for 2015?"
+            ],
+            "ans": [
+                "Forbes"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 39",
+            "ques": [
+                "Beyonce's younger sibling also sang with her in what band?"
+            ],
+            "ans": [
+                "Destiny's Child"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 40",
+            "ques": [
+                "Where did Beyonce get her name from?"
+            ],
+            "ans": [
+                "her mother's maiden name"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 41",
+            "ques": [
+                "What race was Beyonce's father?"
+            ],
+            "ans": [
+                "African-American"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 42",
+            "ques": [
+                "Beyonce's childhood home believed in what religion?"
+            ],
+            "ans": [
+                "Methodist"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 43",
+            "ques": [
+                "Beyonce's father worked as a sales manager for what company?"
+            ],
+            "ans": [
+                "Xerox"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 44",
+            "ques": [
+                "Beyonce's mother worked in what industry?"
+            ],
+            "ans": [
+                "hairdresser and salon owner"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 45",
+            "ques": [
+                "What younger sister of Beyonce also appeared in Destiny's Child?"
+            ],
+            "ans": [
+                "Solange"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 46",
+            "ques": [
+                "Beyonce is a descendent of what Arcadian leader?"
+            ],
+            "ans": [
+                "Joseph Broussard"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 47",
+            "ques": [
+                "What company did Beyonc\u00e9's father work for when she was a child?"
+            ],
+            "ans": [
+                "Xerox"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 48",
+            "ques": [
+                "What did Beyonc\u00e9's mother own when Beyonc\u00e9 was a child?"
+            ],
+            "ans": [
+                "salon"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 49",
+            "ques": [
+                "What is the name of Beyonc\u00e9's younger sister?"
+            ],
+            "ans": [
+                "Solange"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 50",
+            "ques": [
+                "Beyonc\u00e9 is a descendant of which Acadian leader?"
+            ],
+            "ans": [
+                "Joseph Broussard."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 51",
+            "ques": [
+                "Beyonc\u00e9 was raised in what religion?"
+            ],
+            "ans": [
+                "Methodist"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 52",
+            "ques": [
+                "What town did Beyonce go to school in?"
+            ],
+            "ans": [
+                "Fredericksburg"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 53",
+            "ques": [
+                "Who was the first person to notice Beyonce's singing ability?"
+            ],
+            "ans": [
+                "Darlette Johnson"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 54",
+            "ques": [
+                "Beyonce moved to which town after she left her first elementary school?"
+            ],
+            "ans": [
+                "Houston"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 55",
+            "ques": [
+                "Which of her teachers discovered Beyonce's musical talent?"
+            ],
+            "ans": [
+                "dance instructor Darlette Johnson"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 56",
+            "ques": [
+                "I which church was Beyonce  a member and soloist  in the choir?"
+            ],
+            "ans": [
+                "St. John's United Methodist Church"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 57",
+            "ques": [
+                "What type of school was Parker Elementary School?"
+            ],
+            "ans": [
+                "music magnet school"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 58",
+            "ques": [
+                "Which song did Beyonce sing to win a competition at age 7?"
+            ],
+            "ans": [
+                "Imagine"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 59",
+            "ques": [
+                "What city was Beyonc\u00e9's elementary school located in?"
+            ],
+            "ans": [
+                "Fredericksburg"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 60",
+            "ques": [
+                "What was the name of Beyonc\u00e9's first dance instructor?"
+            ],
+            "ans": [
+                "Darlette Johnson"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 61",
+            "ques": [
+                "How old was Beyonc\u00e9 when she won a school talent show?"
+            ],
+            "ans": [
+                "seven"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 62",
+            "ques": [
+                "What choir did Beyonc\u00e9 sing in for two years?"
+            ],
+            "ans": [
+                "St. John's United Methodist Church"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 63",
+            "ques": [
+                "Who decided to place Beyonce's group in Star Search the talent show?"
+            ],
+            "ans": [
+                "Arne Frager"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 64",
+            "ques": [
+                "In 1995, who decided to manage the girls singing group?"
+            ],
+            "ans": [
+                "Beyonc\u00e9's father"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 65",
+            "ques": [
+                "Who was the first record label to give the girls a record deal?"
+            ],
+            "ans": [
+                "Elektra Records"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 66",
+            "ques": [
+                "Who brought Beyonce to California and enter her group in Star Search?"
+            ],
+            "ans": [
+                "Arne Frager"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 67",
+            "ques": [
+                "In what year did Beyonce's father quit his job to manage her group?"
+            ],
+            "ans": [
+                "1995"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 68",
+            "ques": [
+                "What large record company recorded Beyonce's group's first album?"
+            ],
+            "ans": [
+                "Sony Music"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 69",
+            "ques": [
+                "What record company first signed Beyonce's group and later cut them?"
+            ],
+            "ans": [
+                "Elektra Records"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 70",
+            "ques": [
+                "At what age did Beyonce meet LaTavia Robertson?"
+            ],
+            "ans": [
+                "age eight"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 71",
+            "ques": [
+                "How old was Beyonc\u00e9 when she met LaTavia Roberson?"
+            ],
+            "ans": [
+                "eight"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 72",
+            "ques": [
+                "What was the name of the first group Beyonc\u00e9 was a part of?"
+            ],
+            "ans": [
+                "Girl's Tyme"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 73",
+            "ques": [
+                "Who placed Girl's Tyme in Star Search?"
+            ],
+            "ans": [
+                "Arne Frager"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 74",
+            "ques": [
+                "When did Beyonc\u00e9 begin to manage the girl group?"
+            ],
+            "ans": [
+                "1995"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 75",
+            "ques": [
+                "Who signed the girl group on October 5, 1995?"
+            ],
+            "ans": [
+                "Dwayne Wiggins's Grass Roots Entertainment"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 76",
+            "ques": [
+                "Which film featured Destiny's Child's first major single?"
+            ],
+            "ans": [
+                "Men in Black"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 77",
+            "ques": [
+                "For which song, did Destiny's Child take home the grammy award for best R&B performance?"
+            ],
+            "ans": [
+                "\"Say My Name\""
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 78",
+            "ques": [
+                "Who did Beyonce record with for the movie \"The Best Man?\""
+            ],
+            "ans": [
+                "Marc Nelson"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 79",
+            "ques": [
+                "Beyonce's group changed their name to Destiny's Child in what year?"
+            ],
+            "ans": [
+                "1996"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 80",
+            "ques": [
+                "The name Destiny's Child was based on a quote in which book of the Bible?"
+            ],
+            "ans": [
+                "Book of Isaiah"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 81",
+            "ques": [
+                "Debut song, \"Killing Time\" was featured on what movie's sound track?"
+            ],
+            "ans": [
+                "Men in Black"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 82",
+            "ques": [
+                "What song won Best R&B Performance in the 43 Annual Grammy Awards?"
+            ],
+            "ans": [
+                "Say My Name"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 83",
+            "ques": [
+                "What singer did Beyonce record a song with for the movie, ''The Best Man\"?"
+            ],
+            "ans": [
+                "Marc Nelson"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 84",
+            "ques": [
+                "Where did Destiny's Child get their name from?"
+            ],
+            "ans": [
+                "Book of Isaiah."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 85",
+            "ques": [
+                "Destiny's Child song, Killing Time, was included in which film's soundtrack?"
+            ],
+            "ans": [
+                "Men in Black."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 86",
+            "ques": [
+                "What was Destiny's Child's first major song hit?"
+            ],
+            "ans": [
+                "No, No, No"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 87",
+            "ques": [
+                "When did Destiny's Child release their second album?"
+            ],
+            "ans": [
+                "1999"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 88",
+            "ques": [
+                "Who did Beyonc\u00e9 sing a duet with for \"The Best Man\" film?"
+            ],
+            "ans": [
+                "Marc Nelson"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 89",
+            "ques": [
+                "What mental health issue did Beyonce go through?"
+            ],
+            "ans": [
+                "depression"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 90",
+            "ques": [
+                "What event occured after she was publicly criticized?"
+            ],
+            "ans": [
+                "boyfriend left her"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 91",
+            "ques": [
+                "Who supported Beyonce through her depression?"
+            ],
+            "ans": [
+                "her mother"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 92",
+            "ques": [
+                "What event caused Beyonce's depression?"
+            ],
+            "ans": [
+                "split with Luckett and Rober"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 93",
+            "ques": [
+                "How long was Beyonce depressed?"
+            ],
+            "ans": [
+                "a couple of years"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 94",
+            "ques": [
+                "Who helped Beyonce fight her depression the most?"
+            ],
+            "ans": [
+                "her mother"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 95",
+            "ques": [
+                "Who replaced Luckett and Roberson in Destiny's Child?"
+            ],
+            "ans": [
+                "Farrah Franklin and Michelle Williams."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 96",
+            "ques": [
+                "Who was blamed for Luckett and Roberson leaving Destiny's Child?"
+            ],
+            "ans": [
+                "Beyonc\u00e9"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 97",
+            "ques": [
+                "Who helped Beyonc\u00e9 overcome her depression during the years following the Destiny's Child split?"
+            ],
+            "ans": [
+                "her mother"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 98",
+            "ques": [
+                "Which newest member was removed from Destiny's Child?"
+            ],
+            "ans": [
+                "Farrah Franklin"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 99",
+            "ques": [
+                "\"Charlie's Angels\" featured which single from the band members?"
+            ],
+            "ans": [
+                "Independent Women Part I"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 100",
+            "ques": [
+                "How many weeks did their single \"Independent Women Part I\" stay on top?"
+            ],
+            "ans": [
+                "eleven"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 101",
+            "ques": [
+                "For what network, did Beyonce land a major movie role in?"
+            ],
+            "ans": [
+                "MTV"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 102",
+            "ques": [
+                "Their third album, Survivor, sold how many during its first week?"
+            ],
+            "ans": [
+                "663,000 copies"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 103",
+            "ques": [
+                "What French composer wrote the original opera ''Carmen'' in the 19th century?"
+            ],
+            "ans": [
+                "Georges Bizet"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 104",
+            "ques": [
+                "What album caused a lawsuit to be filed in 2001?"
+            ],
+            "ans": [
+                "Survivor"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 105",
+            "ques": [
+                "Independent Women Part I was on which 2000 film's soundtrack?"
+            ],
+            "ans": [
+                "Charlie's Angels."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 106",
+            "ques": [
+                "Which film did Beyonc\u00e9 star in 2001 with Mekhi Phifer?"
+            ],
+            "ans": [
+                "Carmen: A Hip Hopera"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 107",
+            "ques": [
+                "What was the name of Destiny Child's third album?"
+            ],
+            "ans": [
+                "Survivor"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 108",
+            "ques": [
+                "Who filed a lawsuit over Survivor?"
+            ],
+            "ans": [
+                "Luckett and Roberson"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 109",
+            "ques": [
+                "When did Destiny's Child announce their hiatus?"
+            ],
+            "ans": [
+                "October 2001"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 110",
+            "ques": [
+                "Who did Beyonce star with in the movie, \"Austin Powers in Goldmember\"?"
+            ],
+            "ans": [
+                "Mike Myers"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 111",
+            "ques": [
+                "Which three countries did Beyonce's song \"Work It Out\" achieve top ten status?"
+            ],
+            "ans": [
+                "UK, Norway, and Belgium"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 112",
+            "ques": [
+                "Beyonce starred with Cuba Gooding Jr. in which film?"
+            ],
+            "ans": [
+                "The Fighting Temptations"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 113",
+            "ques": [
+                "Who did Beyonce record the lead single with in the movie \"The Fighting Temptations\"?"
+            ],
+            "ans": [
+                "Missy Elliott"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 114",
+            "ques": [
+                "Which other song from the soundtrack did better in the charts?"
+            ],
+            "ans": [
+                "Summertime"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 115",
+            "ques": [
+                "What film did Beyonce appear in with Mike Myers?"
+            ],
+            "ans": [
+                "Austin Powers in Goldmember"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 116",
+            "ques": [
+                "What large amount did the movie \"Goldmember\" gross?"
+            ],
+            "ans": [
+                "73 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 117",
+            "ques": [
+                "What genre of movie did Beyonce star in with Cuba Gooding, Jr?"
+            ],
+            "ans": [
+                "musical comedy"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 118",
+            "ques": [
+                "What song was the lead single from the film's sound track?"
+            ],
+            "ans": [
+                "Fighting Temptations"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 119",
+            "ques": [
+                "How did the critics view the movie, ''The Fighting Temptations''?"
+            ],
+            "ans": [
+                "mixed reviews"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 120",
+            "ques": [
+                "What film did Beyonc\u00e9 star in with Mike Myers in 2002?"
+            ],
+            "ans": [
+                "Austin Powers in Goldmember"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 121",
+            "ques": [
+                "What was Beyonc\u00e9's character called in Austin Powers in Goldmember?"
+            ],
+            "ans": [
+                "Foxxy Cleopatra"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 122",
+            "ques": [
+                "Which song did Beyonc\u00e9 release as the lead single for Austin Powers in Goldmember's soundtrack?"
+            ],
+            "ans": [
+                "Work It Out"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 123",
+            "ques": [
+                "What musical comedy did Beyonc\u00e9 star in along with Cuba Gooding, Jr. in 2003?"
+            ],
+            "ans": [
+                "The Fighting Temptations"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 124",
+            "ques": [
+                "What song did Beyonc\u00e9 release as the lead single from The Fighting Tempations?"
+            ],
+            "ans": [
+                "Fighting Temptations"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 125",
+            "ques": [
+                "What was the highest Beyonce's first solo recording achieved in the Billboard Hot 100?"
+            ],
+            "ans": [
+                "number four"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 126",
+            "ques": [
+                "Beyonce's first album by herself was called what?"
+            ],
+            "ans": [
+                "Dangerously in Love"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 127",
+            "ques": [
+                "How many has \"Dangerously in Love\" sould worldwide since its debut?"
+            ],
+            "ans": [
+                "11 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 128",
+            "ques": [
+                "Beyonce's first number one song was which song?"
+            ],
+            "ans": [
+                "Crazy in Love"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 129",
+            "ques": [
+                "How many top five singles came from her first album?"
+            ],
+            "ans": [
+                "four"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 130",
+            "ques": [
+                "Beyonce's first solo album in the U.S. with what artist in the lead single?"
+            ],
+            "ans": [
+                "Jay Z"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 131",
+            "ques": [
+                "What solo album did Beyonce release in 2003?"
+            ],
+            "ans": [
+                "Dangerously in Love"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 132",
+            "ques": [
+                " The album, Dangerously in Love  achieved what spot on the Billboard Top 100 chart?"
+            ],
+            "ans": [
+                "number four"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 133",
+            "ques": [
+                "\"The Closer I get to You\" was recorded with which artist?"
+            ],
+            "ans": [
+                "Luther Vandross"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 134",
+            "ques": [
+                "Which artist was associated with Beyonc\u00e9's premiere solo recording?"
+            ],
+            "ans": [
+                "Jay Z"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 135",
+            "ques": [
+                "When did Beyonc\u00e9 release her first solo album?"
+            ],
+            "ans": [
+                "June 24, 2003"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 136",
+            "ques": [
+                "What is the lead single on Beyonc\u00e9's first album?"
+            ],
+            "ans": [
+                "Crazy in Love"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 137",
+            "ques": [
+                "Who helped Beyonc\u00e9 earn a Grammy award for Best R&B Performance by a Duo or Group at the 46th annual Grammy Awards?"
+            ],
+            "ans": [
+                "Luther Vandross."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 138",
+            "ques": [
+                "How many awards did Beyonc\u00e9 win at the 46th Grammy's Awards?"
+            ],
+            "ans": [
+                "five."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 139",
+            "ques": [
+                "Destiny's Child's final album was named what?"
+            ],
+            "ans": [
+                "Destiny Fulfilled"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 140",
+            "ques": [
+                "Destiny's Child got a star on the Hollywood Walk of Fame in what year?"
+            ],
+            "ans": [
+                "2006"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 141",
+            "ques": [
+                "In what year did Beyonce embark on her Dangerously in Love tour of Europe?"
+            ],
+            "ans": [
+                "November 2003"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 142",
+            "ques": [
+                "What was the name of the final album of Destiny's Child?"
+            ],
+            "ans": [
+                "Destiny Fulfilled"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 143",
+            "ques": [
+                "It was announced that Destiny's Child would  disban in what European city?"
+            ],
+            "ans": [
+                "Barcelona"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 144",
+            "ques": [
+                "When did Destiny's Child get their star on the Hollywood Walk of Fame?"
+            ],
+            "ans": [
+                "March 2006"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 145",
+            "ques": [
+                "What was the name of Beyonc\u00e9's European start that started in November 2003?"
+            ],
+            "ans": [
+                "Dangerously in Love Tour"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 146",
+            "ques": [
+                "Who did Beyonc\u00e9 tour with for the Verizon Lades First Tour?"
+            ],
+            "ans": [
+                "Missy Elliott and Alicia Keys"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 147",
+            "ques": [
+                "What major event did Beyonc\u00e9 perform at on February 1, 2004?"
+            ],
+            "ans": [
+                "Super Bowl XXXVIII"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 148",
+            "ques": [
+                "What is the name of the final studio album from Destiny's Child?"
+            ],
+            "ans": [
+                "Destiny Fulfilled."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 149",
+            "ques": [
+                "How many albums did Beyonce sell in the first week when she released her second album?"
+            ],
+            "ans": [
+                "541,000"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 150",
+            "ques": [
+                "The lead single from the album was which song?"
+            ],
+            "ans": [
+                "D\u00e9j\u00e0 Vu"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 151",
+            "ques": [
+                "How many countries did her song \"Irreplaceable\" get number one status in?"
+            ],
+            "ans": [
+                "five"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 152",
+            "ques": [
+                "How many singles did her second album produce?"
+            ],
+            "ans": [
+                "five"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 153",
+            "ques": [
+                "What birthday did Beyonce's album B'Day celebrate?"
+            ],
+            "ans": [
+                "twenty-fifth birthday"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 154",
+            "ques": [
+                "What artist did Beyonce duet with in the single, \"Deja Vu''?"
+            ],
+            "ans": [
+                "Jay Z"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 155",
+            "ques": [
+                "How high did ''Deja Vu'' climb on the Billboard chart?"
+            ],
+            "ans": [
+                "top five"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 156",
+            "ques": [
+                "What is the name of Beyonc\u00e9's second album?"
+            ],
+            "ans": [
+                "B'Day"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 157",
+            "ques": [
+                "How many copies did B'Day sell during the first week of its release?"
+            ],
+            "ans": [
+                "541,000"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 158",
+            "ques": [
+                "Who collaborated with Beyonc\u00e9 on the single, Deja Vu?"
+            ],
+            "ans": [
+                "Jay Z"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 159",
+            "ques": [
+                "Which single from B'Day was only released in the U.K.?"
+            ],
+            "ans": [
+                "Green Light"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 160",
+            "ques": [
+                "What movie did Beyonce act in 2006?"
+            ],
+            "ans": [
+                "The Pink Panther"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 161",
+            "ques": [
+                "Her second movie Beyonce did was what film?"
+            ],
+            "ans": [
+                "Dreamgirls"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 162",
+            "ques": [
+                "The single, \"Listen\" was featured in which movie?"
+            ],
+            "ans": [
+                "Dreamgirls"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 163",
+            "ques": [
+                "Beyonce's first world tour was when?"
+            ],
+            "ans": [
+                "2007"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 164",
+            "ques": [
+                "How much money did Beyonce's tour make in 2007?"
+            ],
+            "ans": [
+                "24 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 165",
+            "ques": [
+                "How many millions of dollars did ''The Pink Panther'' gross world-wide?"
+            ],
+            "ans": [
+                "158.8 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 166",
+            "ques": [
+                "What did Beyonce call her first concert tour?"
+            ],
+            "ans": [
+                "The Beyonc\u00e9 Experience"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 167",
+            "ques": [
+                "Who was Beyonce's duet with in ''Beautiful Liar''?"
+            ],
+            "ans": [
+                "Shakira"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 168",
+            "ques": [
+                "Which film did Beyonc\u00e9 star with Steve Martin in?"
+            ],
+            "ans": [
+                "The Pink Panther"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 169",
+            "ques": [
+                "Beyonc\u00e9's role in Dreamgirls was based on what pop singer?"
+            ],
+            "ans": [
+                "Diana Ross."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 170",
+            "ques": [
+                "What was the lead single for the Dreamgirls soundtrack?"
+            ],
+            "ans": [
+                "Listen"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 171",
+            "ques": [
+                "What was the name of Beyonc\u00e9's first international tour?"
+            ],
+            "ans": [
+                "The Beyonc\u00e9 Experience"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 172",
+            "ques": [
+                "What pop singer did a duet with Beyonc\u00e9 on Beautiful Liar?"
+            ],
+            "ans": [
+                "Shakira"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 173",
+            "ques": [
+                "Beyonce got married in 2008 to whom?"
+            ],
+            "ans": [
+                "Jay Z"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 174",
+            "ques": [
+                "Her third album, \"I am...Sasha Fierce\" was released when?"
+            ],
+            "ans": [
+                "November 18, 2008"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 175",
+            "ques": [
+                "For which decade, did Beyonce have more top ten songs than any other woman?"
+            ],
+            "ans": [
+                "2000s"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 176",
+            "ques": [
+                "Which singer beat out Beyonce for best video performance?"
+            ],
+            "ans": [
+                "Taylor Swift"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 177",
+            "ques": [
+                "In 2009, Beyonce started her second world tour and grossed how much money?"
+            ],
+            "ans": [
+                "119.5 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 178",
+            "ques": [
+                "How did she reveal the marriage?"
+            ],
+            "ans": [
+                "in a video montage"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 179",
+            "ques": [
+                "When did Beyonce begin her second world tour?"
+            ],
+            "ans": [
+                "March 2009"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 180",
+            "ques": [
+                "Who beat out Beyonce for Best Female Video ?"
+            ],
+            "ans": [
+                "Taylor Swift"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 181",
+            "ques": [
+                "How much did the second world tour make in dollars?"
+            ],
+            "ans": [
+                "119.5 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 182",
+            "ques": [
+                "When did Beyonc\u00e9 get married?"
+            ],
+            "ans": [
+                "April 4, 2008"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 183",
+            "ques": [
+                "Who did Beyonc\u00e9 marry?"
+            ],
+            "ans": [
+                "Jay Z."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 184",
+            "ques": [
+                "Who is Beyonc\u00e9's alter ego?"
+            ],
+            "ans": [
+                "Sasha Fierce"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 185",
+            "ques": [
+                "The video for what song won Beyonc\u00e9 the 2009 MTV Video of the Year award?"
+            ],
+            "ans": [
+                "Single Ladies"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 186",
+            "ques": [
+                "Which prominent star felt the 2009 Female Video of the Year award should have went to Beyonc\u00e9 instead of Taylor Swift?"
+            ],
+            "ans": [
+                "Kanye West"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 187",
+            "ques": [
+                "Beyonce portrayed which character in the film, Cadillac Records?"
+            ],
+            "ans": [
+                "Etta James"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 188",
+            "ques": [
+                "Beyonce gave her entire salary from Cadillac Records to which organization?"
+            ],
+            "ans": [
+                "Phoenix House"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 189",
+            "ques": [
+                "Which song did Beyonce sing at the first couple's inaugural ball? "
+            ],
+            "ans": [
+                "At Last"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 190",
+            "ques": [
+                "What genre of film was the movie, Obsessed, in which Beyonce starred in?"
+            ],
+            "ans": [
+                "thriller"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 191",
+            "ques": [
+                "A fight scene from the movie, Obsessed, won which award for Beyonce?"
+            ],
+            "ans": [
+                "MTV Movie Award for Best Fight"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 192",
+            "ques": [
+                "Where did Beyonce donate her salary from the movie Cadillac Records?"
+            ],
+            "ans": [
+                "Phoenix House"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 193",
+            "ques": [
+                "What thriller film did Beyonce star in?"
+            ],
+            "ans": [
+                "Obsessed"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 194",
+            "ques": [
+                "What was the name of the woman she played in Obsessed?"
+            ],
+            "ans": [
+                "Sharon Charles"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 195",
+            "ques": [
+                "How much more that the buget did the film gross?"
+            ],
+            "ans": [
+                "60 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 196",
+            "ques": [
+                "Which singer did Beyonc\u00e9 portray in Cadillac Records?"
+            ],
+            "ans": [
+                "Etta James"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 197",
+            "ques": [
+                "Which organization received Beyonc\u00e9's entire Cadillac Records salary?"
+            ],
+            "ans": [
+                "Phoenix House"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 198",
+            "ques": [
+                "Where did Beyonc\u00e9 perform on January 20, 2009?"
+            ],
+            "ans": [
+                "the First Couple's first inaugural ball."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 199",
+            "ques": [
+                "Which thriller film did Beyonc\u00e9 star in with Ali Larter?"
+            ],
+            "ans": [
+                "Obsessed."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 200",
+            "ques": [
+                "How many awards was Beyonce nominated for at the 52nd Grammy Awards?"
+            ],
+            "ans": [
+                "ten"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 201",
+            "ques": [
+                "Beyonce tied with which artist for most nominations by a female artist?"
+            ],
+            "ans": [
+                "Lauryn Hill"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 202",
+            "ques": [
+                "In 2010, Beyonce worked with which other famous singer?"
+            ],
+            "ans": [
+                "Lady Gaga"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 203",
+            "ques": [
+                "How many number one singles did Beyonce now have after the song \"Telephone\"?"
+            ],
+            "ans": [
+                "six"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 204",
+            "ques": [
+                "Beyonce tied who for most number one singles by a female?"
+            ],
+            "ans": [
+                "Mariah Carey"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 205",
+            "ques": [
+                "Beyonce received how many nominations at the 52nd Annual Grammy Awards?"
+            ],
+            "ans": [
+                "ten nominations"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 206",
+            "ques": [
+                "What song was the sixth first place song for Beyonce?"
+            ],
+            "ans": [
+                "Telephone"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 207",
+            "ques": [
+                "Who else appeared with Beyonce in Telephone?"
+            ],
+            "ans": [
+                "Lady Gaga"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 208",
+            "ques": [
+                "Who did they tie with for six top songs?"
+            ],
+            "ans": [
+                "Mariah Carey"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 209",
+            "ques": [
+                "Who did Beyonce tie with for the most nominations in a year?"
+            ],
+            "ans": [
+                "Lauryn Hill"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 210",
+            "ques": [
+                "How many nominations did Beyonc\u00e9 receive at the 52nd Grammy Awards ceremony?"
+            ],
+            "ans": [
+                "ten"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 211",
+            "ques": [
+                "Who did Beyonc\u00e9 tie with for the most Grammy nominations for female artists?"
+            ],
+            "ans": [
+                "Lauryn Hill"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 212",
+            "ques": [
+                "Beyonc\u00e9 was a featured artist on which singer's hit, Telephone?"
+            ],
+            "ans": [
+                "Lady Gaga"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 213",
+            "ques": [
+                "Who did Beyonc\u00e9 and Lady Gaga tie with for the most number one hits since 1992?"
+            ],
+            "ans": [
+                "Mariah Carey"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 214",
+            "ques": [
+                "Beyonce would take a break from music in which year?"
+            ],
+            "ans": [
+                "2010"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 215",
+            "ques": [
+                "Which year did Beyonce and her father part business ways?"
+            ],
+            "ans": [
+                "2010"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 216",
+            "ques": [
+                "Which famous landmark did Beyonce see in China?"
+            ],
+            "ans": [
+                "the Great Wall of China"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 217",
+            "ques": [
+                "In what year did Beyonce have her hiatus?"
+            ],
+            "ans": [
+                "2010"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 218",
+            "ques": [
+                "Who inspired this hiatus?"
+            ],
+            "ans": [
+                "her mother"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 219",
+            "ques": [
+                "When did she stop using her father as a manager?"
+            ],
+            "ans": [
+                "During the break"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 220",
+            "ques": [
+                "How long did the hiatus last?"
+            ],
+            "ans": [
+                "nine months"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 221",
+            "ques": [
+                "What did Beyonc\u00e9 announce in January 2010?"
+            ],
+            "ans": [
+                "a hiatus"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 222",
+            "ques": [
+                "Who suggested the hiatus for Beyonc\u00e9?"
+            ],
+            "ans": [
+                "her mother"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 223",
+            "ques": [
+                "Who did Beyonc\u00e9 part ways with during her hiatus?"
+            ],
+            "ans": [
+                "her father"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 224",
+            "ques": [
+                "How long did her hiatus last?"
+            ],
+            "ans": [
+                "nine months"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 225",
+            "ques": [
+                "In which year was reports about Beyonce performing for Muammar Gaddafi surface?"
+            ],
+            "ans": [
+                "2011"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 226",
+            "ques": [
+                "Who did Beyonce donate the money to earned from her shows?"
+            ],
+            "ans": [
+                "Clinton Bush Haiti Fund"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 227",
+            "ques": [
+                "Beyonce became the first female artist to perform solo in 20 years at which stage?"
+            ],
+            "ans": [
+                "the 2011 Glastonbury Festival"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 228",
+            "ques": [
+                "Which organization did Beyonce's spokespeople confirm her donations to?"
+            ],
+            "ans": [
+                "The Huffington Post"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 229",
+            "ques": [
+                "Beyonce was listed in 2011 as the highest paid performer per what?"
+            ],
+            "ans": [
+                "minute"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 230",
+            "ques": [
+                "Hoe did everyone learn that Beyonce performed for Kaddafi?"
+            ],
+            "ans": [
+                "documents obtained by WikiLeaks"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 231",
+            "ques": [
+                "When did this leak happen?"
+            ],
+            "ans": [
+                "2011"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 232",
+            "ques": [
+                "Who did she tell about the donation?"
+            ],
+            "ans": [
+                "The Huffington Post"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 233",
+            "ques": [
+                "Where did Beyonce perform in 2011?"
+            ],
+            "ans": [
+                "Glastonbury Festival"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 234",
+            "ques": [
+                "Who did Beyonc\u00e9 perform privately for in 2011?"
+            ],
+            "ans": [
+                "Muammar Gaddafi."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 235",
+            "ques": [
+                "Who released the information about Beyonc\u00e9's performance for the Libyan ruler?"
+            ],
+            "ans": [
+                "WikiLeaks"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 236",
+            "ques": [
+                "Which organization did Beyonc\u00e9 donate her pay for the private performance to?"
+            ],
+            "ans": [
+                "Clinton Bush Haiti Fund."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 237",
+            "ques": [
+                "Beyonc\u00e9 was the first female singer to headline what at the 2011 Glastonbury Festival?"
+            ],
+            "ans": [
+                "Pyramid stage"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 238",
+            "ques": [
+                "Beyonce's fourth album debuted in what year?"
+            ],
+            "ans": [
+                "2011"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 239",
+            "ques": [
+                "Which single had the most success from that album?"
+            ],
+            "ans": [
+                "Love on Top"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 240",
+            "ques": [
+                "Beyonce won an award for which activity in 2011?"
+            ],
+            "ans": [
+                "writing"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 241",
+            "ques": [
+                "in 2011, Beyonce performed for four nights where?"
+            ],
+            "ans": [
+                "New York's Roseland Ballroom"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 242",
+            "ques": [
+                "When was Beyonce's forth album released?"
+            ],
+            "ans": [
+                "June 28, 2011"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 243",
+            "ques": [
+                "How many copies did the album sell in its first week?"
+            ],
+            "ans": [
+                "310,000 copies"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 244",
+            "ques": [
+                "Who awarded Beyonce and award for writing?"
+            ],
+            "ans": [
+                "New York Association of Black Journalists"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 245",
+            "ques": [
+                "When did she perform at the Roseland ballroom?"
+            ],
+            "ans": [
+                "2011"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 246",
+            "ques": [
+                "What is the name of Beyonc\u00e9's fourth studio album?"
+            ],
+            "ans": [
+                "4"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 247",
+            "ques": [
+                "When was 4 released?"
+            ],
+            "ans": [
+                "June 28, 2011"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 248",
+            "ques": [
+                "How many copies of 4 sold in the first week?"
+            ],
+            "ans": [
+                "310,000"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 249",
+            "ques": [
+                "What magazine did Beyonc\u00e9 write a story for about her earlier hiatus?"
+            ],
+            "ans": [
+                "Essence"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 250",
+            "ques": [
+                "Where did Beyonc\u00e9 perform for four nights of standing room only concerts in 2011?"
+            ],
+            "ans": [
+                "New York's Roseland Ballroom"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 251",
+            "ques": [
+                "When did Beyonce have her first child?"
+            ],
+            "ans": [
+                "January 7, 2012"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 252",
+            "ques": [
+                "Where did Beyonce give birth to her first child?"
+            ],
+            "ans": [
+                "Lenox Hill Hospital"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 253",
+            "ques": [
+                "Beyonce's first child is named what?"
+            ],
+            "ans": [
+                "Blue Ivy Carter"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 254",
+            "ques": [
+                "Her first appearance performing since giving birth was where?"
+            ],
+            "ans": [
+                "Revel Atlantic City's Ovation Hall"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 255",
+            "ques": [
+                "When did Beyonce have her first child?"
+            ],
+            "ans": [
+                "January 7, 2012"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 256",
+            "ques": [
+                "What was the child's name?"
+            ],
+            "ans": [
+                "Blue Ivy Carter"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 257",
+            "ques": [
+                "How long was it after the birth of her child before she performed again?"
+            ],
+            "ans": [
+                "Five months"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 258",
+            "ques": [
+                "How many nights did she perform at Atlantic City?"
+            ],
+            "ans": [
+                "four nights"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 259",
+            "ques": [
+                "When did Beyonc\u00e9 give birth to a daughter?"
+            ],
+            "ans": [
+                "January 7, 2012"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 260",
+            "ques": [
+                "What did Beyonc\u00e9 name her daughter?"
+            ],
+            "ans": [
+                "Blue Ivy Carter"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 261",
+            "ques": [
+                "Where was Blue Ivy born?"
+            ],
+            "ans": [
+                "Lenox Hill Hospital in New York."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 262",
+            "ques": [
+                "Where was Beyonc\u00e9's first public performance after giving birth?"
+            ],
+            "ans": [
+                "Revel Atlantic City's Ovation Hall"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 263",
+            "ques": [
+                "How many nights did Beyonc\u00e9 play at the resort?"
+            ],
+            "ans": [
+                "four"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 264",
+            "ques": [
+                "Destiny's Child released a compilation album about which topic?"
+            ],
+            "ans": [
+                "romance"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 265",
+            "ques": [
+                "Beyonce's documentary movie was called what?"
+            ],
+            "ans": [
+                "Life Is But a Dream"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 266",
+            "ques": [
+                "What did Beyonce sign in 2013?"
+            ],
+            "ans": [
+                "global publishing agreement"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 267",
+            "ques": [
+                "When did Destiny's Child release its album \"Love Songs\"?"
+            ],
+            "ans": [
+                "January 2013"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 268",
+            "ques": [
+                "What was the title of the added track in Love Songs?"
+            ],
+            "ans": [
+                "Nuclear"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 269",
+            "ques": [
+                "At whose inauguration did she perform the National Anthem?"
+            ],
+            "ans": [
+                "President Obama"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 270",
+            "ques": [
+                "How many Tweets per minute did the half time show get?"
+            ],
+            "ans": [
+                "268,000 tweets per minute"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 271",
+            "ques": [
+                "When did Destiny's Child release Love Songs?"
+            ],
+            "ans": [
+                "January 2013"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 272",
+            "ques": [
+                "What was the new track for Love Songs?"
+            ],
+            "ans": [
+                "Nuclear"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 273",
+            "ques": [
+                "What did Beyonc\u00e9 sing at President Obama's second inauguration?"
+            ],
+            "ans": [
+                "the American national anthem"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 274",
+            "ques": [
+                "What event did Beyonc\u00e9 perform at one month after Obama's inauguration? "
+            ],
+            "ans": [
+                "Super Bowl XLVII halftime show"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 275",
+            "ques": [
+                "What is the name of Beyonc\u00e9's documentary film?"
+            ],
+            "ans": [
+                "Life Is But a Dream"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 276",
+            "ques": [
+                "How many dates did Beyonce's \"The Mrs. Carter Show\" entail?"
+            ],
+            "ans": [
+                "132"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 277",
+            "ques": [
+                "One of Beyonce's most successful tours yet was which one?"
+            ],
+            "ans": [
+                "The Mrs. Carter Show"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 278",
+            "ques": [
+                "Beyonce wrote which song for the movie \"Epic\"?"
+            ],
+            "ans": [
+                "Rise Up"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 279",
+            "ques": [
+                "Beyonce voiced a character in which animated film?"
+            ],
+            "ans": [
+                "Epic"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 280",
+            "ques": [
+                "When did the tour begin?"
+            ],
+            "ans": [
+                "April 15"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 281",
+            "ques": [
+                "Of what event was Beyonce honorary chair?"
+            ],
+            "ans": [
+                "2013 Met Gala"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 282",
+            "ques": [
+                "What part did she voice for the movie Epic?"
+            ],
+            "ans": [
+                "Queen Tara"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 283",
+            "ques": [
+                "What song did Beyonce record for the film Epic?"
+            ],
+            "ans": [
+                "Rise Up"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 284",
+            "ques": [
+                "What was the name of Beyonc\u00e9's tour that she started on April 15?"
+            ],
+            "ans": [
+                "The Mrs. Carter Show World Tour"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 285",
+            "ques": [
+                "How many dates did the Mrs. Carter Show World Tour have?"
+            ],
+            "ans": [
+                "132"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 286",
+            "ques": [
+                "Which Amy Winehouse song did Beyonc\u00e9 cover and release in May 2014?"
+            ],
+            "ans": [
+                "Back to Black"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 287",
+            "ques": [
+                "Beyonc\u00e9 was an honorary chair of the 2013 what?"
+            ],
+            "ans": [
+                "Met Gala."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 288",
+            "ques": [
+                "Which character in the film, Epic, was voiced by Beyonc\u00e9?"
+            ],
+            "ans": [
+                "Queen Tara"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 289",
+            "ques": [
+                "Where did Beyonce release her 5th album to a huge surprise?"
+            ],
+            "ans": [
+                "the iTunes Store"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 290",
+            "ques": [
+                "When did Beyonce get her fifth consecutive number one hit album?"
+            ],
+            "ans": [
+                "December 13, 2013"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 291",
+            "ques": [
+                "Where was the album released? "
+            ],
+            "ans": [
+                "the iTunes Store"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 292",
+            "ques": [
+                "Who joined Beyonce on her On The Run Tour?"
+            ],
+            "ans": [
+                "Jay Z"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 293",
+            "ques": [
+                "Who reported Beyonce to e the top earning woman in music?"
+            ],
+            "ans": [
+                "Forbes"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 294",
+            "ques": [
+                "How much more were her earnings that the year before?"
+            ],
+            "ans": [
+                "more than double her earnings"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 295",
+            "ques": [
+                "When did Beyonc\u00e9 release her fifth studio album?"
+            ],
+            "ans": [
+                "December 13, 2013"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 296",
+            "ques": [
+                "How many digital copies of her fifth album did Beyonc\u00e9 sell in six days?"
+            ],
+            "ans": [
+                "one million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 297",
+            "ques": [
+                "What song on Beyonc\u00e9's fifth studio album featured her husband?"
+            ],
+            "ans": [
+                "Drunk in Love"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 298",
+            "ques": [
+                "What was the name of the tour featuring both Beyonc\u00e9 and Jay Z?"
+            ],
+            "ans": [
+                "On the Run Tour."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 299",
+            "ques": [
+                "How many awards did Beyonce take home with her at the 57th Grammy Awards?"
+            ],
+            "ans": [
+                "three"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 300",
+            "ques": [
+                "Which artist beat Beyonce out for Album of the year?"
+            ],
+            "ans": [
+                "Beck"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 301",
+            "ques": [
+                "Which magazine did Beyonce pose on the cover for in August of 2015?"
+            ],
+            "ans": [
+                "Vogue"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 302",
+            "ques": [
+                "Beyonce would perform with who at Superbowl 50?"
+            ],
+            "ans": [
+                "Coldplay"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 303",
+            "ques": [
+                "Beyonce took home how many awards at the 57th Grammy Awards?"
+            ],
+            "ans": [
+                "three"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 304",
+            "ques": [
+                "Beyonce lost to which artist for Album of the year?"
+            ],
+            "ans": [
+                "Beck"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 305",
+            "ques": [
+                "Who did Beyonce perform next to during Superbowl 50?"
+            ],
+            "ans": [
+                "Coldplay"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 306",
+            "ques": [
+                "If Beyonce won three Grammies in 2015, how many was she nominated for?"
+            ],
+            "ans": [
+                "six awards"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 307",
+            "ques": [
+                "On what magazine was she the cover model?"
+            ],
+            "ans": [
+                "Vogue"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 308",
+            "ques": [
+                "Who would she perform with at Superbowl 50?"
+            ],
+            "ans": [
+                "Coldplay"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 309",
+            "ques": [
+                "With what British band did Beyonce perform on their album?"
+            ],
+            "ans": [
+                "Coldplay"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 310",
+            "ques": [
+                "How many awards was Beyonc\u00e9 nominated for at the 57th annual Grammys?"
+            ],
+            "ans": [
+                "six"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 311",
+            "ques": [
+                "How many awards did Beyonc\u00e9 win at the 57th Annual Grammys?"
+            ],
+            "ans": [
+                "three"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 312",
+            "ques": [
+                "Beyonc\u00e9 lost the Album of the Year award to which entertainer?"
+            ],
+            "ans": [
+                "Beck"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 313",
+            "ques": [
+                "Which magazine did Beyonc\u00e9 pose for the cover, making her the first black female artist to do so?"
+            ],
+            "ans": [
+                "Vogue"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 314",
+            "ques": [
+                "Who did Beyonce perform with at Super Bowl 50?"
+            ],
+            "ans": [
+                "Coldplay"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 315",
+            "ques": [
+                "Beyonce released the song \"Formation\" on which online music service?"
+            ],
+            "ans": [
+                "Tidal"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 316",
+            "ques": [
+                "Beyonce's new single released before the super bowl was called what?"
+            ],
+            "ans": [
+                "Formation"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 317",
+            "ques": [
+                "What day did Beyonce release her single, Formation?"
+            ],
+            "ans": [
+                "February 6, 2016"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 318",
+            "ques": [
+                "How was the single released?"
+            ],
+            "ans": [
+                "exclusively"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 319",
+            "ques": [
+                "What was the name of the streaming service?"
+            ],
+            "ans": [
+                "Tidal"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 320",
+            "ques": [
+                "What kind of platform was the song released?"
+            ],
+            "ans": [
+                "music streaming"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 321",
+            "ques": [
+                "When did Beyonc\u00e9 release Formation?"
+            ],
+            "ans": [
+                "February 6, 2016"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 322",
+            "ques": [
+                "Where did Beyonc\u00e9 exclusively release her single, Formation?"
+            ],
+            "ans": [
+                "Tidal"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 323",
+            "ques": [
+                "As of April 2014, how many albums have Jay Z and Beyonce sold together?"
+            ],
+            "ans": [
+                "300 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 324",
+            "ques": [
+                "Where did Beyonce become pregnant?"
+            ],
+            "ans": [
+                "Paris"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 325",
+            "ques": [
+                "Beyonce described what as the \"hardest thing she had to endure\"?"
+            ],
+            "ans": [
+                "miscarriage"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 326",
+            "ques": [
+                "Who did Beyonce have a relationship with?"
+            ],
+            "ans": [
+                "Jay Z"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 327",
+            "ques": [
+                "When were Beyonce and Jay Z married?"
+            ],
+            "ans": [
+                "April 4, 2008"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 328",
+            "ques": [
+                "Together how records have they sold ?"
+            ],
+            "ans": [
+                "300 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 329",
+            "ques": [
+                "How did Beyonce deal with the miscarriage of her child?"
+            ],
+            "ans": [
+                "wrote music"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 330",
+            "ques": [
+                "Where was Beyonce when she became pregnant?"
+            ],
+            "ans": [
+                "Paris"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 331",
+            "ques": [
+                "In which music video did Beyonc\u00e9 star as Jay Z's girlfriend, creating speculation about their relationship?"
+            ],
+            "ans": [
+                "'03 Bonnie & Clyde"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 332",
+            "ques": [
+                "When were Beyonc\u00e9 and Jay Z married?"
+            ],
+            "ans": [
+                "April 4, 2008"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 333",
+            "ques": [
+                "How many records combined have Beyonc\u00e9 and Jay Z sold?"
+            ],
+            "ans": [
+                "300 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 334",
+            "ques": [
+                "What did Beyonc\u00e9 describe as the saddest thing in her life?"
+            ],
+            "ans": [
+                "miscarriage"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 335",
+            "ques": [
+                "Where did Beyonc\u00e9 get pregnant?"
+            ],
+            "ans": [
+                "Paris."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 336",
+            "ques": [
+                "Jay Z and Beyonce attended which event together in August of 2011?"
+            ],
+            "ans": [
+                "MTV Video Music Awards"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 337",
+            "ques": [
+                "Beyonce confirmed what after performing one of her songs?"
+            ],
+            "ans": [
+                "her pregnancy"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 338",
+            "ques": [
+                "How many people watched the 2011 MTV Music Awards?"
+            ],
+            "ans": [
+                "12.4 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 339",
+            "ques": [
+                "Where did she announce her pregnancy?"
+            ],
+            "ans": [
+                "2011 MTV Video Music Awards"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 340",
+            "ques": [
+                "Why was the broadcast the most-watched in history?"
+            ],
+            "ans": [
+                "Her appearance"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 341",
+            "ques": [
+                "What even was recorded in the Guinness World Records?"
+            ],
+            "ans": [
+                "most tweets per second"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 342",
+            "ques": [
+                "What was the most searched term in week of Aug 29, 2011?"
+            ],
+            "ans": [
+                "Beyonce pregnant"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 343",
+            "ques": [
+                "What song did she perform at the MTV Awards?"
+            ],
+            "ans": [
+                "Love on Top"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 344",
+            "ques": [
+                "Where did Beyonc\u00e9 announce her pregnancy?"
+            ],
+            "ans": [
+                "2011 MTV Video Music Awards"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 345",
+            "ques": [
+                "What song did Beyonc\u00e9 sing prior to announcing her pregnancy?"
+            ],
+            "ans": [
+                "Love on Top"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 346",
+            "ques": [
+                "How many people watched the 2011 MTV Video Music Awards?"
+            ],
+            "ans": [
+                "12.4 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 347",
+            "ques": [
+                "What was the most searched term on Google for the week of August 29, 2011?"
+            ],
+            "ans": [
+                "Beyonce pregnant"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 348",
+            "ques": [
+                "Jay Z has a website called what?"
+            ],
+            "ans": [
+                "Lifeandtimes.com"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 349",
+            "ques": [
+                "Which song by Jay Z talked about the pregnancy struggles?"
+            ],
+            "ans": [
+                "Glory"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 350",
+            "ques": [
+                "What was the name of Beyonce's daughter?"
+            ],
+            "ans": [
+                "Blue Ivy Carter"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 351",
+            "ques": [
+                "At what hospital was the baby delivered?"
+            ],
+            "ans": [
+                "Lenox Hill Hospital"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 352",
+            "ques": [
+                "What was the named of the song  dedicated to the child?"
+            ],
+            "ans": [
+                "Glory"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 353",
+            "ques": [
+                "What does B.I.C. stand for?"
+            ],
+            "ans": [
+                "Blue Ivy Carter"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 354",
+            "ques": [
+                "Who was credited for her cries on the song?"
+            ],
+            "ans": [
+                "B.I.C."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 355",
+            "ques": [
+                "When did Beyonc\u00e9 give birth to her daughter?"
+            ],
+            "ans": [
+                "January 7, 2012"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 356",
+            "ques": [
+                "What did Beyonc\u00e9 and Jay Z name their daughter?"
+            ],
+            "ans": [
+                "Blue Ivy Carter"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 357",
+            "ques": [
+                "What song did Jay Z release two days after Blue Ivy was born?"
+            ],
+            "ans": [
+                "Glory"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 358",
+            "ques": [
+                "What is included at the end of Glory?"
+            ],
+            "ans": [
+                "Blue Ivy's cries"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 359",
+            "ques": [
+                "How was Blue Ivy credited on Glory?"
+            ],
+            "ans": [
+                "B.I.C."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 360",
+            "ques": [
+                "Beyonce and Jay-Z went to a rally for the acquittal of whom?"
+            ],
+            "ans": [
+                "George Zimmerman"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 361",
+            "ques": [
+                "Beyonce sang which song during the 2009 presidential inauguration?"
+            ],
+            "ans": [
+                "America the Beautiful"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 362",
+            "ques": [
+                "How much did Beyonce raise for Obama at the 40/40 Club?"
+            ],
+            "ans": [
+                "4 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 363",
+            "ques": [
+                "What did she endorse on March 26, 2013?"
+            ],
+            "ans": [
+                "same sex marriage"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 364",
+            "ques": [
+                "What did they attend in July 2013?"
+            ],
+            "ans": [
+                "a rally"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 365",
+            "ques": [
+                "What did she sing at the 2009 Presidential Inauguration?"
+            ],
+            "ans": [
+                "America the Beautiful"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 366",
+            "ques": [
+                "What song did Beyonc\u00e9 perform at the 2009 inauguration of Obama?"
+            ],
+            "ans": [
+                "America the Beautiful"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 367",
+            "ques": [
+                "What song did Beyonc\u00e9 perform at the first inaugural dance for the Obamas."
+            ],
+            "ans": [
+                "At Last"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 368",
+            "ques": [
+                "What social media platform did Beyonc\u00e9 upload a picture of her paper ballot on?"
+            ],
+            "ans": [
+                "Tumblr"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 369",
+            "ques": [
+                "When did Beyonc\u00e9 endorse on March 26, 2013?"
+            ],
+            "ans": [
+                "same sex marriage"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 370",
+            "ques": [
+                "Beyonce did an interview with which magazine and was asked about feminism?"
+            ],
+            "ans": [
+                "Vogue"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 371",
+            "ques": [
+                "Beyonce supported which campaign that encourages leadership in girls?"
+            ],
+            "ans": [
+                "Ban Bossy campaign"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 372",
+            "ques": [
+                "Where was Beyonce quoted as saying that she is a modern-day feminist?"
+            ],
+            "ans": [
+                "Vogue"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 373",
+            "ques": [
+                "When did she say the she is a feminist?"
+            ],
+            "ans": [
+                "April 2013"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 374",
+            "ques": [
+                "What campaign did she contribute to?"
+            ],
+            "ans": [
+                "Ban Bossy"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 375",
+            "ques": [
+                "What song did she release in 2013 in response to a speech?"
+            ],
+            "ans": [
+                "Flawless"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 376",
+            "ques": [
+                "What does Ban Bossy encourage?"
+            ],
+            "ans": [
+                "leadership in girls"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 377",
+            "ques": [
+                "Beyonc\u00e9 used words from which Nigerian author in her song, Flawless?"
+            ],
+            "ans": [
+                "Chimamanda Ngozi Adichie"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 378",
+            "ques": [
+                "Which campaign does Beyonc\u00e9 contribute to that encourages leadership in females?"
+            ],
+            "ans": [
+                "Ban Bossy"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 379",
+            "ques": [
+                "Beyonce signed a letter with who in 2015?"
+            ],
+            "ans": [
+                "the ONE Campaign"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 380",
+            "ques": [
+                "An important UN summit took place when?"
+            ],
+            "ans": [
+                "September 2015"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 381",
+            "ques": [
+                "The letter Beyonce signed focused on what issue?"
+            ],
+            "ans": [
+                "women"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 382",
+            "ques": [
+                "What had to be set in developing funding?"
+            ],
+            "ans": [
+                "priorities"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 383",
+            "ques": [
+                "When did Beyonce sign a letter for ONE Campaign?"
+            ],
+            "ans": [
+                "2015"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 384",
+            "ques": [
+                "To whom was the letter addressed?"
+            ],
+            "ans": [
+                "Angela Merkel and Nkosazana Dlamini-Zuma"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 385",
+            "ques": [
+                "Who are these women?"
+            ],
+            "ans": [
+                "head of the G7 in Germany"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 386",
+            "ques": [
+                "When will they meet?"
+            ],
+            "ans": [
+                "September 2015"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 387",
+            "ques": [
+                "Who did Beyonc\u00e9 sign a letter for in 2015?"
+            ],
+            "ans": [
+                "the ONE Campaign"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 388",
+            "ques": [
+                "Who was the letter addressed to?"
+            ],
+            "ans": [
+                "Angela Merkel and Nkosazana Dlamini-Zuma"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 389",
+            "ques": [
+                "What was Angela Merkel serving as in relation to the letter?"
+            ],
+            "ans": [
+                "the head of the G7 in Germany"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 390",
+            "ques": [
+                "What did the letter want the two recipients to focus on?"
+            ],
+            "ans": [
+                "women"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 391",
+            "ques": [
+                "Beyonce along with Jay Z met with whom's family after their death?"
+            ],
+            "ans": [
+                "Freddie Gray"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 392",
+            "ques": [
+                "Beyonce with Jay Z gave lots of money to bail who out of prison?"
+            ],
+            "ans": [
+                "protesters"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 393",
+            "ques": [
+                "Who's death caused this protest?"
+            ],
+            "ans": [
+                "Freddie Gray"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 394",
+            "ques": [
+                "How much bail money did they spend?"
+            ],
+            "ans": [
+                "thousands of dollars"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 395",
+            "ques": [
+                "Beyonce beat out which musical artists for most paid between June 2007 and June 2008?"
+            ],
+            "ans": [
+                "Madonna and Celine Dion"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 396",
+            "ques": [
+                "Beyonce and Jay Z got a Guinness World record for what in 2009?"
+            ],
+            "ans": [
+                "highest-earning power couple"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 397",
+            "ques": [
+                "Beyonce became the highest-paid black musician in which year?"
+            ],
+            "ans": [
+                "2014"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 398",
+            "ques": [
+                "Up until May of 2015, how much is Beyonce's total worth?"
+            ],
+            "ans": [
+                "250 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 399",
+            "ques": [
+                "Between 2008 and 2009, which entertainers did Beyonce beat in earnings?"
+            ],
+            "ans": [
+                "Madonna and Celine Dion"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 400",
+            "ques": [
+                "In 2012 who placed Beyonce at 16 in the Celebrity List?"
+            ],
+            "ans": [
+                "Forbes"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 401",
+            "ques": [
+                "When did she and Jay Z become the highest paid black celebrity couple?"
+            ],
+            "ans": [
+                "2011"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 402",
+            "ques": [
+                "How much did she earn in 2014?"
+            ],
+            "ans": [
+                "115 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 403",
+            "ques": [
+                "What is Beyonce's net worth in 2015?"
+            ],
+            "ans": [
+                "250 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 404",
+            "ques": [
+                "Who began reporting Beyonc\u00e9's annual earnings, starting in 2008?"
+            ],
+            "ans": [
+                "Forbes"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 405",
+            "ques": [
+                "When did Beyonc\u00e9 become the highest paid black musician, ever?"
+            ],
+            "ans": [
+                "April 2014."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 406",
+            "ques": [
+                "Who predicted that Beyonc\u00e9 would become the highest paid black entertainer?"
+            ],
+            "ans": [
+                "MTV"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 407",
+            "ques": [
+                "When did Jay Z and Beyonc\u00e9 become the first music couple worth over a billion dollars?"
+            ],
+            "ans": [
+                "2013"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 408",
+            "ques": [
+                "Beyonce's range in singing is how many octaves?"
+            ],
+            "ans": [
+                "four"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 409",
+            "ques": [
+                "who talked about Beyonce's tone and timbre as distinctive?"
+            ],
+            "ans": [
+                "Jody Rosen"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 410",
+            "ques": [
+                "Which critic called Beyonce's voice \"versatile\"?"
+            ],
+            "ans": [
+                "The Daily Mail"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 411",
+            "ques": [
+                "Which era was credited to have influenced Beyonce's singing style by Jody Rosen?"
+            ],
+            "ans": [
+                "hip hop"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 412",
+            "ques": [
+                "How many octaves does Beyonce have?"
+            ],
+            "ans": [
+                "four octaves"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 413",
+            "ques": [
+                "What did the Daily Mail say about Beyonce's voice?"
+            ],
+            "ans": [
+                "versatile"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 414",
+            "ques": [
+                "What does Rosen claim influenced Beyonce's style?"
+            ],
+            "ans": [
+                "hip hop"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 415",
+            "ques": [
+                "What do other critics claim?"
+            ],
+            "ans": [
+                "praise her range and power"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 416",
+            "ques": [
+                "How many octaves does Beyonc\u00e9's voice span?"
+            ],
+            "ans": [
+                "four"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 417",
+            "ques": [
+                "Why is Beyonc\u00e9 known as the centerpiece of Destiny's Child?"
+            ],
+            "ans": [
+                "Her vocal abilities"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 418",
+            "ques": [
+                "New York Times' Jon Pareles calls Beyonc\u00e9's voice velvety yet what?"
+            ],
+            "ans": [
+                "tart"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 419",
+            "ques": [
+                "What does Jody Rosen say influenced Beyonc\u00e9's vocal style?"
+            ],
+            "ans": [
+                "the hip hop era"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 420",
+            "ques": [
+                "Music from Beyonce is generally categorized as what genre?"
+            ],
+            "ans": [
+                "R&B"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 421",
+            "ques": [
+                "Besides R&B, which genres does Beyonce dabble in?"
+            ],
+            "ans": [
+                "pop, soul and funk"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 422",
+            "ques": [
+                "Beyonce mostly releases English songs, but what other language did she release songs?"
+            ],
+            "ans": [
+                "Spanish"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 423",
+            "ques": [
+                "Spanish songs Beyonce released were for what?"
+            ],
+            "ans": [
+                "re-release of B'Day"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 424",
+            "ques": [
+                "Beyonce was coached for her Spanish songs by which American?"
+            ],
+            "ans": [
+                "Rudy Perez"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 425",
+            "ques": [
+                "What kind of music does Beyonce do?"
+            ],
+            "ans": [
+                "R&B"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 426",
+            "ques": [
+                "What language does she mainly sing?"
+            ],
+            "ans": [
+                "English"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 427",
+            "ques": [
+                "What other language has she sung?"
+            ],
+            "ans": [
+                "Spanish"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 428",
+            "ques": [
+                "What album did she re-release in Spanish?"
+            ],
+            "ans": [
+                "B'Day"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 429",
+            "ques": [
+                "What style of music does Beyonc\u00e9 usually perform?"
+            ],
+            "ans": [
+                "R&B"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 430",
+            "ques": [
+                "What language did Beyonc\u00e9 release several songs in?"
+            ],
+            "ans": [
+                "Spanish"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 431",
+            "ques": [
+                "Who coached Beyonc\u00e9 for her Spanish recordings?"
+            ],
+            "ans": [
+                "Rudy Perez."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 432",
+            "ques": [
+                "What album did the Spanish songs come from?"
+            ],
+            "ans": [
+                "B'Day."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 433",
+            "ques": [
+                "Beyonce does not create which aspect of her music?"
+            ],
+            "ans": [
+                "beats"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 434",
+            "ques": [
+                "An example of a song aimed towards a male audience is what?"
+            ],
+            "ans": [
+                "Cater 2 U"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 435",
+            "ques": [
+                "What theme was Beyonce's early music?"
+            ],
+            "ans": [
+                "female-empowerment"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 436",
+            "ques": [
+                "With Jay Z what were her new themes?"
+            ],
+            "ans": [
+                "man-tending anthems"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 437",
+            "ques": [
+                "What does she get credits for in her music?"
+            ],
+            "ans": [
+                "co-producing credits"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 438",
+            "ques": [
+                "What part of production does she do?"
+            ],
+            "ans": [
+                "melodies"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 439",
+            "ques": [
+                "Beyonc\u00e9's early recordings empowered who?"
+            ],
+            "ans": [
+                "Women"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 440",
+            "ques": [
+                "In addition to co-writing credits, Beyonc\u00e9 also got what credits for most of her albums?"
+            ],
+            "ans": [
+                "co-producing"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 441",
+            "ques": [
+                "Rather than beats, what two things does Beyonc\u00e9 usually come up with for producers?"
+            ],
+            "ans": [
+                "melodies and ideas"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 442",
+            "ques": [
+                "Pop Songwriter of the Year award in 2001 was awarded to whom?"
+            ],
+            "ans": [
+                "Beyonc\u00e9"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 443",
+            "ques": [
+                "Beyonce received the Pop Songwriter of the Year award at which event?"
+            ],
+            "ans": [
+                "American Society of Composers, Authors, and Publishers Pop Music Awards"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 444",
+            "ques": [
+                "Beyonce has the same number of writing credits on number one singles as whom?"
+            ],
+            "ans": [
+                "Diane Warren"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 445",
+            "ques": [
+                "Beyonce joined 2 other women on what list from Billboard magazine in 2011?"
+            ],
+            "ans": [
+                "Top 20 Hot 100 Songwriters"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 446",
+            "ques": [
+                "When did Beyonce become the first African American woman to win Pop songwriter of the year?"
+            ],
+            "ans": [
+                "2001"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 447",
+            "ques": [
+                "What place is she tied for in songwriting credits?"
+            ],
+            "ans": [
+                "third"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 448",
+            "ques": [
+                "Who listed her at number 17 in their list of  Top 20 hot 100 Songwriters?"
+            ],
+            "ans": [
+                "Billboard magazine"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 449",
+            "ques": [
+                "Where does she place in writing credits  for three number one songs?"
+            ],
+            "ans": [
+                "third woman"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 450",
+            "ques": [
+                "What did Beyonc\u00e9 win in 2001, making her the first black woman to do so?"
+            ],
+            "ans": [
+                "Pop Songwriter of the Year award"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 451",
+            "ques": [
+                "Who gave Beyonc\u00e9 the Pop Songwriter of the Year award in 2001?"
+            ],
+            "ans": [
+                "the American Society of Composers, Authors, and Publishers Pop Music Awards."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 452",
+            "ques": [
+                "Beyonc\u00e9 was one of how many women on Billboard magazine's 2011 \"Top 20 Hot 100 Songwriters\" list."
+            ],
+            "ans": [
+                "three"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 453",
+            "ques": [
+                "What number was Beyonc\u00e9 on the Top 20 Hot 100 Songwriters list?"
+            ],
+            "ans": [
+                "17"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 454",
+            "ques": [
+                "To whom did Beyonce credit as her major influence on her music?"
+            ],
+            "ans": [
+                "Michael Jackson"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 455",
+            "ques": [
+                "How old was Beyonce when she went to her first Michael Jackson concert as a kid?"
+            ],
+            "ans": [
+                "five"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 456",
+            "ques": [
+                "Beyonce gave a tribute award to who in 2006?"
+            ],
+            "ans": [
+                "Michael Jackson"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 457",
+            "ques": [
+                "Beyonce cites Mariah Carey to making her want to start doing what?"
+            ],
+            "ans": [
+                "vocal runs"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 458",
+            "ques": [
+                "Who influenced Beyonce?"
+            ],
+            "ans": [
+                "Michael Jackson"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 459",
+            "ques": [
+                "What song by Mariah Carey influenced her?"
+            ],
+            "ans": [
+                "Vision of Love"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 460",
+            "ques": [
+                "Who is Beyonc\u00e9's biggest musical influence?"
+            ],
+            "ans": [
+                "Michael Jackson"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 461",
+            "ques": [
+                "What was Beyonc\u00e9's first concert?"
+            ],
+            "ans": [
+                "Michael Jackson"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 462",
+            "ques": [
+                "Who does Beyonc\u00e9 feel is an all-around entertainer?"
+            ],
+            "ans": [
+                "Diana Ross"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 463",
+            "ques": [
+                "Who does she credit for the inspiration to \"get up there and do what she did\"?"
+            ],
+            "ans": [
+                "Whitney Houston"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 464",
+            "ques": [
+                "What song caused Beyonc\u00e9 to practice runs as a child?"
+            ],
+            "ans": [
+                "Vision of Love"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 465",
+            "ques": [
+                "What themes were influenced by her acting role in Dreamgirls?"
+            ],
+            "ans": [
+                "feminism and female empowerment"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 466",
+            "ques": [
+                "Which singer did Beyonce honor by entertaining with her song \"Deja Vu\"?"
+            ],
+            "ans": [
+                "Josephine Baker"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 467",
+            "ques": [
+                "Who motivated Beyonce to explore other areas of music?"
+            ],
+            "ans": [
+                "Etta James"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 468",
+            "ques": [
+                "What movie influenced Beyonce towards empowerment themes? "
+            ],
+            "ans": [
+                "Dreamgirls"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 469",
+            "ques": [
+                "How did Etta James influence her?"
+            ],
+            "ans": [
+                "boldness"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 470",
+            "ques": [
+                "Where did she perform wearing Baker's hula skirt?"
+            ],
+            "ans": [
+                "2006 Fashion Rocks concert"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 471",
+            "ques": [
+                "What singer inspired Beyonc\u00e9's B'Day album?"
+            ],
+            "ans": [
+                "Josephine Baker."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 472",
+            "ques": [
+                "What song did Beyonc\u00e9 sing at a 2006 concert to honor Josephine Baker?"
+            ],
+            "ans": [
+                "D\u00e9j\u00e0 Vu"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 473",
+            "ques": [
+                "Beyonce has noted which first lady with saying \"She proves you can do it all\"?"
+            ],
+            "ans": [
+                "Michelle Obama"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 474",
+            "ques": [
+                "Which month and year did Beyonce credit Madonna for inspiring her to take control of her career?"
+            ],
+            "ans": [
+                "February 2013"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 475",
+            "ques": [
+                "Beyonce has said that who embodies the \"definition of inspiration and a strong woman\"?"
+            ],
+            "ans": [
+                "Oprah Winfrey"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 476",
+            "ques": [
+                "Who personally influences Beyonce?"
+            ],
+            "ans": [
+                "Michelle Obama"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 477",
+            "ques": [
+                "Hoe does she describe Oprah Winfrey?"
+            ],
+            "ans": [
+                "a strong woman"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 478",
+            "ques": [
+                "How does she describe Jean- Michel Basquiat?"
+            ],
+            "ans": [
+                "lyrical and raw"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 479",
+            "ques": [
+                "How does Madonna influence her?"
+            ],
+            "ans": [
+                "to take control of her own career"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 480",
+            "ques": [
+                "How does she describe Jay Z?"
+            ],
+            "ans": [
+                "continuing inspiration"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 481",
+            "ques": [
+                "Who inspires Beyonc\u00e9 because \"she does it all?\""
+            ],
+            "ans": [
+                "First Lady Michelle Obama"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 482",
+            "ques": [
+                "Who does Beyonc\u00e9 describe as the definition of inspiration?"
+            ],
+            "ans": [
+                "Oprah Winfrey"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 483",
+            "ques": [
+                "Who does Beyonc\u00e9 describe as lyrical and raw?"
+            ],
+            "ans": [
+                "Jean-Michel Basquiat"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 484",
+            "ques": [
+                "Who inspired Beyonc\u00e9 to take control of her career?"
+            ],
+            "ans": [
+                "Madonna"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 485",
+            "ques": [
+                "Beyonce had an all-female tour band whose name was what?"
+            ],
+            "ans": [
+                "Suga Mama"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 486",
+            "ques": [
+                "Beyonce had singers in the background known by the name as?"
+            ],
+            "ans": [
+                "The Mamas"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 487",
+            "ques": [
+                "The Mamas members included which 3 musicians?"
+            ],
+            "ans": [
+                "Montina Cooper-Donnell, Crystal Collins and Tiffany Moniqu\u00e9 Riddick"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 488",
+            "ques": [
+                "The Mamas first appearance was when?"
+            ],
+            "ans": [
+                "2006"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 489",
+            "ques": [
+                "What band did Beyonce introduce in 2006?"
+            ],
+            "ans": [
+                "Suga Mama"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 490",
+            "ques": [
+                "What song name does the band Suga Mama  and a song on the B'Day album share?"
+            ],
+            "ans": [
+                "Suga Mama"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 491",
+            "ques": [
+                "Where did Suga Mama band make their first appearance?"
+            ],
+            "ans": [
+                "2006 BET Awards"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 492",
+            "ques": [
+                "What band supports Beyonce in her tours?"
+            ],
+            "ans": [
+                "Suga Mama"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 493",
+            "ques": [
+                "What is the name of Beyonc\u00e9's female tour band?"
+            ],
+            "ans": [
+                "Suga Mama"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 494",
+            "ques": [
+                "Suga Mama is also a song on which Beyonc\u00e9 album?"
+            ],
+            "ans": [
+                "B'Day"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 495",
+            "ques": [
+                "What are Beyonc\u00e9's backup singers called?"
+            ],
+            "ans": [
+                "The Mamas"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 496",
+            "ques": [
+                "When did The Mamas make their debut?"
+            ],
+            "ans": [
+                "the 2006 BET Awards"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 497",
+            "ques": [
+                "What characteristics has Beyonce received acclaim for?"
+            ],
+            "ans": [
+                "stage presence and voice"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 498",
+            "ques": [
+                "Which former president of Def Jam called Beyonce the greatest entertainer alive?"
+            ],
+            "ans": [
+                "L.A. Reid"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 499",
+            "ques": [
+                "For what does Beyonce receive praise?"
+            ],
+            "ans": [
+                "stage presence"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 500",
+            "ques": [
+                "Who chose her as number one on his list of Best singers/ Dancers?"
+            ],
+            "ans": [
+                "Jarett Wieselman"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 501",
+            "ques": [
+                "How has L.A. Reid described her?"
+            ],
+            "ans": [
+                "greatest entertainer alive"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 502",
+            "ques": [
+                "How does Alice Jones describe her?"
+            ],
+            "ans": [
+                "she's almost too good"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 503",
+            "ques": [
+                "Who has Beyonc\u00e9 at number one on her Five Best Singer/Dancers?"
+            ],
+            "ans": [
+                "Jarett Wieselman"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 504",
+            "ques": [
+                "Who has said that Beyonc\u00e9 is the best entertainer alive?"
+            ],
+            "ans": [
+                "L.A. Reid"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 505",
+            "ques": [
+                "Beyonce self proclaimed alter ego is named what?"
+            ],
+            "ans": [
+                "Sasha Fierce"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 506",
+            "ques": [
+                "Her alter ego was born when according to Beyonce?"
+            ],
+            "ans": [
+                "making of \"Crazy in Love\""
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 507",
+            "ques": [
+                "What year did Beyonce do away with Sasha Fierce?"
+            ],
+            "ans": [
+                "2010"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 508",
+            "ques": [
+                "Beyonce brought back Sasha Fierce during which event?"
+            ],
+            "ans": [
+                "Revel Presents: Beyonc\u00e9 Live"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 509",
+            "ques": [
+                "How does she describe Sasha?"
+            ],
+            "ans": [
+                "too aggressive, too strong"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 510",
+            "ques": [
+                "Later what did she say about Sasha?"
+            ],
+            "ans": [
+                "she would bring her back"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 511",
+            "ques": [
+                "What is the name of Beyonc\u00e9's alter ego?"
+            ],
+            "ans": [
+                "Sasha Fierce."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 512",
+            "ques": [
+                "When did Beyonc\u00e9 introduce Sasha Fierce?"
+            ],
+            "ans": [
+                "2008"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 513",
+            "ques": [
+                "Sasha Fierce was created during the making of what song?"
+            ],
+            "ans": [
+                "Crazy in Love"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 514",
+            "ques": [
+                "Who did Beyonc\u00e9 tell in February 2010 that Sasha Fierce was no longer needed?"
+            ],
+            "ans": [
+                "Allure magazine"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 515",
+            "ques": [
+                "Beyonce's sex appeal is characterized as what?"
+            ],
+            "ans": [
+                "wide-ranging"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 516",
+            "ques": [
+                "Which music journalist described Beyonce as a \"crossover sex symbol?\""
+            ],
+            "ans": [
+                "Tour\u00e9"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 517",
+            "ques": [
+                "Which word spawned from a term used to describe Beyonce in 2006?"
+            ],
+            "ans": [
+                "Bootylicious"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 518",
+            "ques": [
+                "Bootylicious was a song from which act that Beyonce performed with?"
+            ],
+            "ans": [
+                "Destiny's Child"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 519",
+            "ques": [
+                "Oxford Dictionary added which word from the 2000s dedicated to Beyonce?"
+            ],
+            "ans": [
+                "Bootylicious"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 520",
+            "ques": [
+                "What word is often used to describe Beyonce/"
+            ],
+            "ans": [
+                "Bootylicious"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 521",
+            "ques": [
+                "When was the term added to the dictionary?"
+            ],
+            "ans": [
+                "2006"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 522",
+            "ques": [
+                "What journalist wrote that Beyonc\u00e9 was a \"sex symbol\"?"
+            ],
+            "ans": [
+                "Tour\u00e9"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 523",
+            "ques": [
+                "Because of Beyonc\u00e9's physical shape, what slang term has been used to describe her?"
+            ],
+            "ans": [
+                "Bootylicious"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 524",
+            "ques": [
+                "In what year was the slang term from a title of a Destiny's Child song that is also used to describe Beyonc\u00e9 put in the dictionary?"
+            ],
+            "ans": [
+                "2006"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 525",
+            "ques": [
+                "How does Beyonc\u00e9 say she likes to dress off-stage?"
+            ],
+            "ans": [
+                "sexily"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 526",
+            "ques": [
+                "in September 2010, what career area did Beyonce start exploring?"
+            ],
+            "ans": [
+                "modelling"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 527",
+            "ques": [
+                "Beyonce's first modelling event was at where?"
+            ],
+            "ans": [
+                "Tom Ford's Spring/Summer 2011 fashion show"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 528",
+            "ques": [
+                "\"World's Most Beautiful woman\" was declared to Beyonce by which national magazine?"
+            ],
+            "ans": [
+                "People"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 529",
+            "ques": [
+                "Which month and year did GQ feature Beyonce on its cover?"
+            ],
+            "ans": [
+                "January 2013"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 530",
+            "ques": [
+                "What TV network listed Beyonce as number 1 on its 100 Sexiest Artists list?"
+            ],
+            "ans": [
+                "VH1"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 531",
+            "ques": [
+                "Who called Beyonce the World's most Beautiful Woman?"
+            ],
+            "ans": [
+                "People"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 532",
+            "ques": [
+                "Who called her Hottest Female Singer of all Time?"
+            ],
+            "ans": [
+                "Complex"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 533",
+            "ques": [
+                "When did she appear on the cover of GQ?"
+            ],
+            "ans": [
+                "2013"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 534",
+            "ques": [
+                "VH1 listed her at what number on their 100 Sexiest Artists list?"
+            ],
+            "ans": [
+                "number 1"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 535",
+            "ques": [
+                "What year did Beyonc\u00e9 first model for Tom Ford?"
+            ],
+            "ans": [
+                "2010"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 536",
+            "ques": [
+                "What magazine said Beyonc\u00e9 was the \"World's Most Beautiful Woman\"?"
+            ],
+            "ans": [
+                "People"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 537",
+            "ques": [
+                "What title did Complex award Beyonc\u00e9?"
+            ],
+            "ans": [
+                "Hottest Female Singer of All Time"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 538",
+            "ques": [
+                "What museum has made several models of Beyonc\u00e9 in wax?"
+            ],
+            "ans": [
+                "Madame Tussauds Wax Museums"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 539",
+            "ques": [
+                "Which parent of Beyonce's help co-write a book?"
+            ],
+            "ans": [
+                "Her mother"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 540",
+            "ques": [
+                "Which African-American woman before Beyonce had posed for SI Swimsuit issue?"
+            ],
+            "ans": [
+                "Tyra Banks"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 541",
+            "ques": [
+                "What was the title of Beyonce's mother's book?"
+            ],
+            "ans": [
+                "Destiny's Style"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 542",
+            "ques": [
+                "When was she on the Sports Illustrated cover?"
+            ],
+            "ans": [
+                "2007"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 543",
+            "ques": [
+                "Who was she the second  African American on the cover after?"
+            ],
+            "ans": [
+                "Tyra Banks"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 544",
+            "ques": [
+                "Beyonc\u00e9 was the second African American woman featured as a swimsuit cover on the magazine, who was first?"
+            ],
+            "ans": [
+                "Tyra Banks"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 545",
+            "ques": [
+                "What magazine said Beyonc\u00e9 was the \"best-dressed celebrity\"?"
+            ],
+            "ans": [
+                "People"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 546",
+            "ques": [
+                "Beyonce has a fan base that is referred to as what?"
+            ],
+            "ans": [
+                "The Bey Hive"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 547",
+            "ques": [
+                "Before the Bey Hive, fans of Beyonce were called what?"
+            ],
+            "ans": [
+                "The Beyontourage"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 548",
+            "ques": [
+                "Which social media company proclaimed Beyonce fans are know as the Bey Hive?"
+            ],
+            "ans": [
+                "Twitter"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 549",
+            "ques": [
+                "What is Beyonce's fan base called?"
+            ],
+            "ans": [
+                "Bey Hive"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 550",
+            "ques": [
+                "What did the fans used to be called?"
+            ],
+            "ans": [
+                "Beyontourage"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 551",
+            "ques": [
+                "What is the latest term used to describe Beyonc\u00e9 fans?"
+            ],
+            "ans": [
+                "Bey Hive"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 552",
+            "ques": [
+                "What was the former word given to Beyonc\u00e9 fans?"
+            ],
+            "ans": [
+                "Beyontourage"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 553",
+            "ques": [
+                "What word does \"Bey Hive\" derive from?"
+            ],
+            "ans": [
+                "beehive"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 554",
+            "ques": [
+                "Beyonce has a clothing line known as what?"
+            ],
+            "ans": [
+                "House of Der\u00e9on"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 555",
+            "ques": [
+                "Which French magazine did Beyonce show up on the cover of?"
+            ],
+            "ans": [
+                "L'Officiel"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 556",
+            "ques": [
+                "Beyonce was seen wearing what on the french magazine that caused controversy?"
+            ],
+            "ans": [
+                "blackface and tribal makeup"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 557",
+            "ques": [
+                "Which year did PETA spark controversy with Beyonce?"
+            ],
+            "ans": [
+                "2006"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 558",
+            "ques": [
+                "What did PETA criticize Beyonce for in 2006?"
+            ],
+            "ans": [
+                "for wearing and using fur"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 559",
+            "ques": [
+                "What French Magazine cover did the media criticize?"
+            ],
+            "ans": [
+                "L'Officiel"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 560",
+            "ques": [
+                "How was she dressed on the cover of L'Officiel?"
+            ],
+            "ans": [
+                "in blackface and tribal makeup"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 561",
+            "ques": [
+                "What French magazine did Beyonc\u00e9 appear in wearing blackface and tribal makeup?"
+            ],
+            "ans": [
+                "L'Officiel"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 562",
+            "ques": [
+                "What clothing line of Beyonc\u00e9 drew PETA criticism?"
+            ],
+            "ans": [
+                "House of Der\u00e9on."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 563",
+            "ques": [
+                "What type of magazine is L'Officiel?"
+            ],
+            "ans": [
+                "French fashion magazine"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 564",
+            "ques": [
+                "Which racial community gave criticism to Beyonce?"
+            ],
+            "ans": [
+                "African-American"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 565",
+            "ques": [
+                "Which professor from Northeastern University wrote about how race correlates with these criticisms of Beyonce?"
+            ],
+            "ans": [
+                "Emmett Price"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 566",
+            "ques": [
+                "Which company was accused of coloring Beyonce's hair?"
+            ],
+            "ans": [
+                "L'Or\u00e9al"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 567",
+            "ques": [
+                "What did Vogue request?"
+            ],
+            "ans": [
+                "natural pictures be used"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 568",
+            "ques": [
+                "How did L'Oreal respond to accusations of changing pictures?"
+            ],
+            "ans": [
+                "it is categorically untrue"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 569",
+            "ques": [
+                "In addition to her light skin color, what else has made part of the African American community criticize Beyonc\u00e9?"
+            ],
+            "ans": [
+                "costuming"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 570",
+            "ques": [
+                "In 2007, which music professor said he believes this criticism does involve race as well?"
+            ],
+            "ans": [
+                "Emmett Price"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 571",
+            "ques": [
+                "Who was accused of lightening Beyonc\u00e9's skin for an advertisement?"
+            ],
+            "ans": [
+                "L'Or\u00e9al"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 572",
+            "ques": [
+                "What advertisement was Beyonc\u00e9's skin supposedly lightened in?"
+            ],
+            "ans": [
+                "Feria hair color advertisements"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 573",
+            "ques": [
+                "Who did Beyonc\u00e9 tell in 2013 to only use natural pictures of her rather than retouched images?"
+            ],
+            "ans": [
+                "H&M"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 574",
+            "ques": [
+                "Artist of the Decade was bestowed upon Beyonce from which magazine?"
+            ],
+            "ans": [
+                "The Guardian"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 575",
+            "ques": [
+                "Whats the first year that Beyonce appear on the Time 100 list?"
+            ],
+            "ans": [
+                "2013"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 576",
+            "ques": [
+                "Beyonce than appeared again on the Time 100 list in what year?"
+            ],
+            "ans": [
+                "2014"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 577",
+            "ques": [
+                "What did the Guardian name her?"
+            ],
+            "ans": [
+                "Artist of the Decade"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 578",
+            "ques": [
+                "When did Beyonce first make the Time 100 List?"
+            ],
+            "ans": [
+                "2013"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 579",
+            "ques": [
+                "When was she again on the Time 100 List and on the cover?"
+            ],
+            "ans": [
+                "2014"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 580",
+            "ques": [
+                "Who said that she is the reigning national voice?"
+            ],
+            "ans": [
+                "Baz Luhrmann"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 581",
+            "ques": [
+                "Who stated that Beyonc\u00e9 is the most important musician of the 21st century?"
+            ],
+            "ans": [
+                "Jody Rosen"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 582",
+            "ques": [
+                "Which publication named Beyonc\u00e9 the Artist of the Decade?"
+            ],
+            "ans": [
+                "The Guardian"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 583",
+            "ques": [
+                "What list did Beyonc\u00e9 make in 2013?"
+            ],
+            "ans": [
+                "Time 100 list"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 584",
+            "ques": [
+                "Who said Beyonc\u00e9 is the heir-apparent diva of the United States?"
+            ],
+            "ans": [
+                "Baz Luhrmann"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 585",
+            "ques": [
+                "What year was Beyonc\u00e9 featured both on the Time 100 list as well as the cover of the issue?"
+            ],
+            "ans": [
+                "2014"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 586",
+            "ques": [
+                "Which rock band cited Beyonce on their third album?"
+            ],
+            "ans": [
+                "White Rabbits"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 587",
+            "ques": [
+                "Which friend learned from Beyonce while preparing for the film, \"Country Strong?\""
+            ],
+            "ans": [
+                "Gwyneth Paltrow"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 588",
+            "ques": [
+                "Nicky Minaj became a spokesperson for which brand of soda after seeing Beyonce involved with it?"
+            ],
+            "ans": [
+                "Pepsi"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 589",
+            "ques": [
+                "What influenced Nicki Minaj to join the Pepsi global campaign?"
+            ],
+            "ans": [
+                "Beyonc\u00e9's Pepsi commercial"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 590",
+            "ques": [
+                "Which band listed Beyonce as an inspiration on their latest album?"
+            ],
+            "ans": [
+                "White Rabbits"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 591",
+            "ques": [
+                "What about Beyonce has influenced many entertainers?"
+            ],
+            "ans": [
+                "work"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 592",
+            "ques": [
+                "For what film was Paltrow studying Beyonce ?"
+            ],
+            "ans": [
+                "Country Strong"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 593",
+            "ques": [
+                "Which Indie band said Beyonc\u00e9 was an inspiration for one of hteir albums?"
+            ],
+            "ans": [
+                "White Rabbits"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 594",
+            "ques": [
+                "What was the name of the White Rabbits' album?"
+            ],
+            "ans": [
+                "Milk Famous"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 595",
+            "ques": [
+                "Who studied Beyonc\u00e9 during live concerts for research for a film's music role?"
+            ],
+            "ans": [
+                "Gwyneth Paltrow"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 596",
+            "ques": [
+                "What was the name of the film that Gwyneth Paltrow starred in as a musician?"
+            ],
+            "ans": [
+                "Country Strong."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 597",
+            "ques": [
+                "Beyonc\u00e9's Pepsi commercial inspired which star to join Pepsi's global campaign in 2012?"
+            ],
+            "ans": [
+                "Nicki Minaj"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 598",
+            "ques": [
+                "VH1 declared what song the \"Greatest song of the 2000s?\""
+            ],
+            "ans": [
+                "Crazy in Love"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 599",
+            "ques": [
+                "How many Grammy awards did \"Crazy in Love\" win?"
+            ],
+            "ans": [
+                "two"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 600",
+            "ques": [
+                "How many did Crazy in Love sell to become one of the greatest selling singles in history?"
+            ],
+            "ans": [
+                "8 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 601",
+            "ques": [
+                "What type of organism was named after Beyonce in 2012?"
+            ],
+            "ans": [
+                "fly"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 602",
+            "ques": [
+                "A place for Beyonce in the Rock and Roll Hall of fame was awarded when?"
+            ],
+            "ans": [
+                "July 2014"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 603",
+            "ques": [
+                "Which of Beyonce's songs was called Greatest Song of the 2000s?"
+            ],
+            "ans": [
+                "Crazy in Love"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 604",
+            "ques": [
+                "How many Grammy awards did Crazy in Love get?"
+            ],
+            "ans": [
+                "earned two Grammy Awards"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 605",
+            "ques": [
+                "How many copies did Crazy in Love sell?"
+            ],
+            "ans": [
+                "around 8 million copies"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 606",
+            "ques": [
+                "Who released the single Girls Love Beyonce?"
+            ],
+            "ans": [
+                "Drake"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 607",
+            "ques": [
+                "Which publication considers Crazy in Love to be one of the top 500 songs of all time?"
+            ],
+            "ans": [
+                "Rolling Stone"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 608",
+            "ques": [
+                "Who sang \"Girls Love Beyonc\u00e9\" in 2013?"
+            ],
+            "ans": [
+                "Drake"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 609",
+            "ques": [
+                "What did Bryan Lessard name after Beyonc\u00e9?"
+            ],
+            "ans": [
+                "a species of horse fly"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 610",
+            "ques": [
+                "How many copies of her albums as Beyonce sold in the US?"
+            ],
+            "ans": [
+                "15 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 611",
+            "ques": [
+                "Totaling worldwide, how many records as Beyonce sold?"
+            ],
+            "ans": [
+                "118 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 612",
+            "ques": [
+                "How many certifications was Beyonce awarded by the RIAA?"
+            ],
+            "ans": [
+                "64"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 613",
+            "ques": [
+                "When Beyonce was with Destiny's Child, how many albums did she manage to sell?"
+            ],
+            "ans": [
+                "60 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 614",
+            "ques": [
+                "Who was the first female to achieve the International Artist Award at the American Music Awards?"
+            ],
+            "ans": [
+                "Beyonc\u00e9"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 615",
+            "ques": [
+                "How many albums has Beyonce as a solo artist sold in the U.S?"
+            ],
+            "ans": [
+                "15 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 616",
+            "ques": [
+                "How many has she sold worldwide?"
+            ],
+            "ans": [
+                "118 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 617",
+            "ques": [
+                "How many records has she sold with Destiny's Child?"
+            ],
+            "ans": [
+                "60 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 618",
+            "ques": [
+                "When did she receive the Legend Award?"
+            ],
+            "ans": [
+                "2008 World Music Awards"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 619",
+            "ques": [
+                "How many music certifications has she received in the 2000s?"
+            ],
+            "ans": [
+                "64 certifications"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 620",
+            "ques": [
+                "How many records has Beyonc\u00e9 sold in the United States?"
+            ],
+            "ans": [
+                "over 15 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 621",
+            "ques": [
+                "How many records has Beyonc\u00e9 sold throughout the world?"
+            ],
+            "ans": [
+                "over 118 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 622",
+            "ques": [
+                "Who cited Beyonc\u00e9 as being the top certified artist of the 2000s?"
+            ],
+            "ans": [
+                "The Recording Industry Association of America"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 623",
+            "ques": [
+                "How many certifications did RIAA give Beyonc\u00e9?"
+            ],
+            "ans": [
+                "64"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 624",
+            "ques": [
+                "When did Beyonc\u00e9 receive the Legend Award?"
+            ],
+            "ans": [
+                "the 2008 World Music Awards"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 625",
+            "ques": [
+                "How many Grammys has Beyonce won total with and without Destiny's Child?"
+            ],
+            "ans": [
+                "20"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 626",
+            "ques": [
+                "Who is the only other woman with more Grammy awards than Beyonce?"
+            ],
+            "ans": [
+                "Alison Krauss"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 627",
+            "ques": [
+                "Beyonce has been awarded how many Grammy nominations?"
+            ],
+            "ans": [
+                "52"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 628",
+            "ques": [
+                "Beyonce holds the record for how many wins in one night by a female?"
+            ],
+            "ans": [
+                "six"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 629",
+            "ques": [
+                "How many awards at the Broadcast Film Critics Association Awards in 2006 did Beyonce bring home?"
+            ],
+            "ans": [
+                "two"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 630",
+            "ques": [
+                "How many Grammies has Beyonce won?"
+            ],
+            "ans": [
+                "20 Grammy Awards"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 631",
+            "ques": [
+                "How many Grammy nominations does Beyonce have?"
+            ],
+            "ans": [
+                "52 nominations"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 632",
+            "ques": [
+                "When did she set the record for most Grammy awards won in one night?"
+            ],
+            "ans": [
+                "2010"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 633",
+            "ques": [
+                "Who tied her record for most Grammies won in one night in 2012?"
+            ],
+            "ans": [
+                "Adele"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 634",
+            "ques": [
+                "How many Grammys has Beyonc\u00e9 won?"
+            ],
+            "ans": [
+                "20"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 635",
+            "ques": [
+                "How many Grammy nominations has Beyonc\u00e9 had?"
+            ],
+            "ans": [
+                "52"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 636",
+            "ques": [
+                "What Beyonc\u00e9 song was song of the year on 2010?"
+            ],
+            "ans": [
+                "\"Single Ladies (Put a Ring on It)\""
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 637",
+            "ques": [
+                "What movie had Beyonc\u00e9 nominated as Best Actress for Golden Globe Awards?"
+            ],
+            "ans": [
+                "Dreamgirls"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 638",
+            "ques": [
+                "Which soda company has Beyonce partnered with since 2002?"
+            ],
+            "ans": [
+                "Pepsi"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 639",
+            "ques": [
+                "Pepsi paid Beyonce how much in 2012 for her endorsement?"
+            ],
+            "ans": [
+                "50 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 640",
+            "ques": [
+                "Which organization wrote a letter to Beyonce after her Pepsi endorsement deal?"
+            ],
+            "ans": [
+                "The Center for Science in the Public Interest (CSPINET)"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 641",
+            "ques": [
+                "What percentage of people were positive about Beyonce's endorsement of Pepsi?"
+            ],
+            "ans": [
+                "70"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 642",
+            "ques": [
+                "When did Beyonce begin doing Pepsi advetisments?"
+            ],
+            "ans": [
+                "2002"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 643",
+            "ques": [
+                "Who was in the commercial with Beyonce in 2004?"
+            ],
+            "ans": [
+                "Britney Spears, Pink, and Enrique Iglesias"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 644",
+            "ques": [
+                "What did she agree to do for 50 million dollars in 2012?"
+            ],
+            "ans": [
+                "endorse Pepsi"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 645",
+            "ques": [
+                "Who sent her a letter asking that she reconsider the Pepsi deal?"
+            ],
+            "ans": [
+                "Center for Science in the Public Interest"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 646",
+            "ques": [
+                "What soft drink company has Beyonc\u00e9 worked with since 2002?"
+            ],
+            "ans": [
+                "Pepsi"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 647",
+            "ques": [
+                "How much did Beyonc\u00e9 get for a deal with a soft drink company in 2012?"
+            ],
+            "ans": [
+                "$50 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 648",
+            "ques": [
+                "Who asked her to change her mind about the soft drink deal due to the nature of the product?"
+            ],
+            "ans": [
+                "The Center for Science in the Public Interest (CSPINET)"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 649",
+            "ques": [
+                "What organization discovered that the advertisements Beyonc\u00e9 did for the soft drink company were 70% positive?"
+            ],
+            "ans": [
+                "NetBase"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 650",
+            "ques": [
+                "Beyonce worked with who on her perfumes, True Star and True Star Gold?"
+            ],
+            "ans": [
+                "Tommy Hilfiger"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 651",
+            "ques": [
+                "The world's best selling celebrity perfume line belongs to whom?"
+            ],
+            "ans": [
+                "Beyonc\u00e9"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 652",
+            "ques": [
+                "Beyonce's first fragrance had what name?"
+            ],
+            "ans": [
+                "Heat"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 653",
+            "ques": [
+                "The Mrs. Carter Show Limited Edition was released in what year?"
+            ],
+            "ans": [
+                "2013"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 654",
+            "ques": [
+                "How much money did The Mrs. Carter Show Limited Edition fragrance make?"
+            ],
+            "ans": [
+                "400 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 655",
+            "ques": [
+                "What was Beyonce's 2010  perfume called?"
+            ],
+            "ans": [
+                "Heat"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 656",
+            "ques": [
+                "When was her second perfume, Heat Rush, released?"
+            ],
+            "ans": [
+                "2011"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 657",
+            "ques": [
+                "What was Beyonce's third perfume named?"
+            ],
+            "ans": [
+                "Pulse"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 658",
+            "ques": [
+                "How many editions of Heat have been launched?"
+            ],
+            "ans": [
+                "six editions"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 659",
+            "ques": [
+                "Which Emporio Armani fragrance did Beyonc\u00e9 promote in 2007?"
+            ],
+            "ans": [
+                "Diamonds"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 660",
+            "ques": [
+                "What year did Beyonc\u00e9 introduce her first fragrance?"
+            ],
+            "ans": [
+                "2010."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 661",
+            "ques": [
+                "What was Beyonc\u00e9's first fragrance called?"
+            ],
+            "ans": [
+                "Heat"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 662",
+            "ques": [
+                "How many editions of Heat exist?"
+            ],
+            "ans": [
+                "six"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 663",
+            "ques": [
+                "How young was Beyonce when she acquired deals from American Express and L'Oreal?"
+            ],
+            "ans": [
+                "18"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 664",
+            "ques": [
+                "What was the name of the video game that was cancelled for Beyonce?"
+            ],
+            "ans": [
+                "Starpower: Beyonc\u00e9"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 665",
+            "ques": [
+                "When did Beyonce begin her deals with name brands?"
+            ],
+            "ans": [
+                "since the age of 18"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 666",
+            "ques": [
+                "How many people lost jobs when Beyonce left the video game deal?"
+            ],
+            "ans": [
+                "70 staff"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 667",
+            "ques": [
+                "How was the suit settled?"
+            ],
+            "ans": [
+                "out of court"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 668",
+            "ques": [
+                "What was the name of the video game?"
+            ],
+            "ans": [
+                "Starpower: Beyonc\u00e9"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 669",
+            "ques": [
+                "What video game did Beyonc\u00e9 back out of?"
+            ],
+            "ans": [
+                "Starpower: Beyonc\u00e9"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 670",
+            "ques": [
+                "What company was producing the video game?"
+            ],
+            "ans": [
+                "GateFive"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 671",
+            "ques": [
+                "How many people lost their jobs over Beyonc\u00e9 backing out of the deal?"
+            ],
+            "ans": [
+                "70"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 672",
+            "ques": [
+                "When was the disagreement settled out of court?"
+            ],
+            "ans": [
+                "June 2013"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 673",
+            "ques": [
+                "Who did Bayonce's management go into business with in 2014?"
+            ],
+            "ans": [
+                "fashion retailer Topshop"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 674",
+            "ques": [
+                "After their agreement together, Beyonce's and Topshop\" new business was called what?"
+            ],
+            "ans": [
+                "Parkwood Topshop Athletic Ltd"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 675",
+            "ques": [
+                "What type of clothing does Parkwood Topshop Athletic Ltd produce?"
+            ],
+            "ans": [
+                "activewear"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 676",
+            "ques": [
+                "The company and products were set to be in stores when?"
+            ],
+            "ans": [
+                "fall of 2015"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 677",
+            "ques": [
+                "Who did Beyonce partner with in London?"
+            ],
+            "ans": [
+                "Topshop"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 678",
+            "ques": [
+                "When will the new line launch?"
+            ],
+            "ans": [
+                "2015"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 679",
+            "ques": [
+                "What is the name of Beyonc\u00e9's management company?"
+            ],
+            "ans": [
+                "Parkwood Entertainment"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 680",
+            "ques": [
+                "Who did Beyonc\u00e9 and Parkwood Entertainment partner with in October 2014?"
+            ],
+            "ans": [
+                "Topshop"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 681",
+            "ques": [
+                "Where is Topshop located?"
+            ],
+            "ans": [
+                "London"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 682",
+            "ques": [
+                "What was the new division of Topshop because of the partnership?"
+            ],
+            "ans": [
+                "activewear"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 683",
+            "ques": [
+                "When was it discovered Beyonce was a co-owner of the music service, Tidal?"
+            ],
+            "ans": [
+                "March 30, 2015"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 684",
+            "ques": [
+                "The parent company of Tidal became under the ownership of whom in 2015?"
+            ],
+            "ans": [
+                "Jay Z"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 685",
+            "ques": [
+                "When was it announced that Beyonce was  a co-owner in Tidal?"
+            ],
+            "ans": [
+                "March 30, 2015"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 686",
+            "ques": [
+                "What kind of service is Tidal?"
+            ],
+            "ans": [
+                "music streaming service"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 687",
+            "ques": [
+                "What is a criticism of other streaming services?"
+            ],
+            "ans": [
+                "low payout of royalties"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 688",
+            "ques": [
+                "What music streaming system is Beyonc\u00e9 part owner of?"
+            ],
+            "ans": [
+                "Tidal."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 689",
+            "ques": [
+                "What is the parent company of the music service Beyonc\u00e9 owns part of?"
+            ],
+            "ans": [
+                "Aspiro"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 690",
+            "ques": [
+                "Who acquired the parent company of the music service Beyonc\u00e9 owns part of?"
+            ],
+            "ans": [
+                "Jay Z"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 691",
+            "ques": [
+                "What music service is accused of providing low royalty amounts?"
+            ],
+            "ans": [
+                "Spotify"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 692",
+            "ques": [
+                "House of Dereon became known through Beyonce and which of Beyonce's relatives?"
+            ],
+            "ans": [
+                "her mother"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 693",
+            "ques": [
+                "Beyonce's grandma's name was?"
+            ],
+            "ans": [
+                "Agn\u00e8z Der\u00e9on"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 694",
+            "ques": [
+                "Beyonce's family's company name is what?"
+            ],
+            "ans": [
+                "Beyond Productions"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 695",
+            "ques": [
+                "What types of garments are sold by Beyonce's clothing line?"
+            ],
+            "ans": [
+                "sportswear, denim offerings with fur, outerwear and accessories that include handbags and footwear"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 696",
+            "ques": [
+                "Which two countries can you purchase Beyonce's clothing line?"
+            ],
+            "ans": [
+                "US and Canada"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 697",
+            "ques": [
+                "Who partnered with Beyonce to start the clothing line, Dereon?"
+            ],
+            "ans": [
+                "her mother"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 698",
+            "ques": [
+                "When did Beyonce and her mother start Dereon?"
+            ],
+            "ans": [
+                "2005"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 699",
+            "ques": [
+                "Who was the business named for in Beyonce's family?"
+            ],
+            "ans": [
+                "grandmother, Agn\u00e8z Der\u00e9on"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 700",
+            "ques": [
+                "Where were items from the clothing line displayed?"
+            ],
+            "ans": [
+                "in Destiny's Child's shows and tours"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 701",
+            "ques": [
+                "Who shares in the House of Der\u00e9on fashion line introduction with Beyonc\u00e9?"
+            ],
+            "ans": [
+                "her mother"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 702",
+            "ques": [
+                "What is the name of the House of Der\u00e9on junior collection?"
+            ],
+            "ans": [
+                "Der\u00e9on."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 703",
+            "ques": [
+                "What type of accessory company did Beyonce partner with in 2005?"
+            ],
+            "ans": [
+                "shoe"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 704",
+            "ques": [
+                "In 2010, Beyonce released Dereon to what country?"
+            ],
+            "ans": [
+                "Brazil"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 705",
+            "ques": [
+                "Back-to-school shopping was introduced in what year of Beyonce's clothing line?"
+            ],
+            "ans": [
+                "2009"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 706",
+            "ques": [
+                "What did Beyonce's Fashion Diva  feature?"
+            ],
+            "ans": [
+                "House of Der\u00e9on collection"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 707",
+            "ques": [
+                "What new idea did Beyonce and her mother launch in 2009?"
+            ],
+            "ans": [
+                "Sasha Fierce for Der\u00e9on"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 708",
+            "ques": [
+                "When did Beyonce partner with C&A to sell fashion in Brazil?"
+            ],
+            "ans": [
+                "May 27, 2010"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 709",
+            "ques": [
+                "What company did Beyonc\u00e9 get together with in 2005 to add shoes to her fashions?"
+            ],
+            "ans": [
+                "House of Brands"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 710",
+            "ques": [
+                "What was the name of the game put out by Starwave Mobile in 2008 that featured Beyonc\u00e9 fashions?"
+            ],
+            "ans": [
+                "Beyonc\u00e9 Fashion Diva"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 711",
+            "ques": [
+                "What was the name of the junior fashions launched in 2009 by Beyonc\u00e9 and her mother?"
+            ],
+            "ans": [
+                "Sasha Fierce for Der\u00e9on"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 712",
+            "ques": [
+                "Who did Beyonc\u00e9 team up with in 2010 to get her fashions into Brazil?"
+            ],
+            "ans": [
+                "C&A"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 713",
+            "ques": [
+                "Sasha Fierce for Der\u00e9on fashions were sold at stores that included Macy's and what other store?"
+            ],
+            "ans": [
+                "Dillard's"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 714",
+            "ques": [
+                "Beyonce, during October 2014, partnered with whom to produce an outdoor line of clothing?"
+            ],
+            "ans": [
+                "Topshop"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 715",
+            "ques": [
+                "Beyonce and Topshops first products were to be sold in stores when?"
+            ],
+            "ans": [
+                "autumn 2015"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 716",
+            "ques": [
+                "What is the new business called?"
+            ],
+            "ans": [
+                "Parkwood Topshop Athletic Ltd"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 717",
+            "ques": [
+                "What is Beyonce's percentage of ownership in the new venture?"
+            ],
+            "ans": [
+                "50"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 718",
+            "ques": [
+                "When will the full line appear?"
+            ],
+            "ans": [
+                "April 2016"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 719",
+            "ques": [
+                "What company did Beyonc\u00e9 contract with to sell clothing in England?"
+            ],
+            "ans": [
+                "Topshop"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 720",
+            "ques": [
+                "What is the name of the equal partnership's fashion line between Beyonc\u00e9 and the British company to come out in 2016?"
+            ],
+            "ans": [
+                "Parkwood Topshop Athletic Ltd"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 721",
+            "ques": [
+                "What type of clothing does the British partnership with Beyonc\u00e9 sell?"
+            ],
+            "ans": [
+                "activewear"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 722",
+            "ques": [
+                "What national disaster caused Beyonce to create the Survivor Foundation?"
+            ],
+            "ans": [
+                "Hurricane Katrina"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 723",
+            "ques": [
+                "How much cash did Beyonce put into the venture, the Survivor Foundation at startup?"
+            ],
+            "ans": [
+                "250,000"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 724",
+            "ques": [
+                "What hurricane years later after Katrina did the organization provide support for?"
+            ],
+            "ans": [
+                "Ike"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 725",
+            "ques": [
+                "What did Beyonce and Rowland found in 2005?"
+            ],
+            "ans": [
+                "the Survivor Foundation"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 726",
+            "ques": [
+                "How much did Beyonce initially contribute to the foundation?"
+            ],
+            "ans": [
+                "$250,000"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 727",
+            "ques": [
+                "How has this foundation changed in recent years?"
+            ],
+            "ans": [
+                "expanded to work with other charities"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 728",
+            "ques": [
+                "What foundation did Beyonc\u00e9 start after Hurricane Katrina?"
+            ],
+            "ans": [
+                "Survivor Foundation"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 729",
+            "ques": [
+                "How much money did Beyonc\u00e9 contribute at the beginning of her Hurricane Katrina foundation?"
+            ],
+            "ans": [
+                "$250,000."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 730",
+            "ques": [
+                "What other hurricane did Beyonc\u00e9's foundation help with?"
+            ],
+            "ans": [
+                "Hurricane Ike"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 731",
+            "ques": [
+                "Who did Beyonce participate with in the Hope for Haiti Now: A Global Benefit?"
+            ],
+            "ans": [
+                "George Clooney and Wyclef Jean"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 732",
+            "ques": [
+                "Beyonce opened a cosmetology center in what location?"
+            ],
+            "ans": [
+                "Brooklyn Phoenix House"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 733",
+            "ques": [
+                "After Osama Bin Laden's death, what single did Beyonce cover?"
+            ],
+            "ans": [
+                "God Bless the USA"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 734",
+            "ques": [
+                "How much did the T-shirt with Beyonce's image on it make? "
+            ],
+            "ans": [
+                "$1 million"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 735",
+            "ques": [
+                "What enterprise did Beyonce and her mother start on March 5, 2010?"
+            ],
+            "ans": [
+                "Beyonc\u00e9 Cosmetology Center at the Brooklyn Phoenix House"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 736",
+            "ques": [
+                "What charity benefited from  the release of the song, God Bless the USA?"
+            ],
+            "ans": [
+                "New York Police and Fire Widows' and Children's Benefit Fund"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 737",
+            "ques": [
+                "What did she participate in with George Clooney?"
+            ],
+            "ans": [
+                "Hope for Haiti Now: A Global Benefit"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 738",
+            "ques": [
+                "Which two stars did Beyonc\u00e9 help with their Haiti Earthquake organization?"
+            ],
+            "ans": [
+                "George Clooney and Wyclef Jean"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 739",
+            "ques": [
+                "What did Beyonc\u00e9 open at the Brooklyn Phoenix House in 2010?"
+            ],
+            "ans": [
+                "Beyonc\u00e9 Cosmetology Center"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 740",
+            "ques": [
+                "What Lee Greenwood song did Beyonc\u00e9 cover after Osama bin Laden was killed?"
+            ],
+            "ans": [
+                "God Bless the USA"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 741",
+            "ques": [
+                "Which national event caused Beyonce to produce \"Demand a Plan?\""
+            ],
+            "ans": [
+                "Sandy Hook Elementary School shooting"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 742",
+            "ques": [
+                "What song did Beyonce contribute to the campaign?"
+            ],
+            "ans": [
+                "I Was Here"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 743",
+            "ques": [
+                "Beyonce is contributing to which food-donation campaign?"
+            ],
+            "ans": [
+                "Miss a Meal"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 744",
+            "ques": [
+                "On June 1 , 2013 where was the concert held for \"a Chime for Change\"?"
+            ],
+            "ans": [
+                "London"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 745",
+            "ques": [
+                "Beyonce was speaking about whom when she said her gift was \"finding the best qualities in every human being.\"?"
+            ],
+            "ans": [
+                "her mother"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 746",
+            "ques": [
+                "The Demand a Plan video campaign followed what tragic event?"
+            ],
+            "ans": [
+                "Sandy Hook Elementary School shooting."
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 747",
+            "ques": [
+                "What was the focus of the Gucci Chime for Change campaign?"
+            ],
+            "ans": [
+                "spread female empowerment"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 748",
+            "ques": [
+                "What crowdfunding platform was used in the concert?"
+            ],
+            "ans": [
+                "Catapult"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 749",
+            "ques": [
+                "What is the name of the campaign that Beyonc\u00e9 and others are involved in that deals with gun control?"
+            ],
+            "ans": [
+                "Demand A Plan"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 750",
+            "ques": [
+                "What school shooting prompted the creation of Demand A Plan?"
+            ],
+            "ans": [
+                "Sandy Hook Elementary School"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 751",
+            "ques": [
+                "What song did Beyonc\u00e9 donate to the 2012 World Humanitarian Day campaign?"
+            ],
+            "ans": [
+                "I Was Here"
+            ]
+        },
+        {
+            "tag": "Beyonc\u00e9 752",
+            "ques": [
+                "Who did Beyonc\u00e9 work with in 2013 on the Chime for Change campaign?"
+            ],
+            "ans": [
+                "Salma Hayek and Frida Giannini"
+            ]
+        }
+    ]
+}
