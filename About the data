@@ -1,0 +1,8 @@
+The data is a subset of a very famous chatbot dataset SQuAD2.0 whose description is given in the below link 
+and can be downloaded from there.
+link:-- https://rajpurkar.github.io/SQuAD-explorer/
+
+I selected the data with tag "Beyonce" as a subset of the above data to run my codes.
+I have attached a "data creation" file which includes the extraction of the subset and dumping into a json file and did some of the editing 
+in the json file itself like adding tag of hi, hello, etc.
+After these steps pre-processing and training model were done.
